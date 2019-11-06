@@ -1,0 +1,501 @@
+﻿#,,Building Name,City,Height (m),Height (ft),Floors,Completion,Material,Use
+1,,International Commerce Centre,Hong Kong (CN),484,"1,588",108,2010,composite,hotel / office
+2,,Two International Finance Centre,Hong Kong (CN),412,"1,352",88,2003,composite,office
+3,,Central Plaza,Hong Kong (CN),373.9,"1,227",78,1992,concrete,office
+4,,Bank of China Tower,Hong Kong (CN),367.4,"1,205",72,1990,composite,office
+5,,The Center,Hong Kong (CN),346,"1,135",73,1998,steel,office
+6,,Nina Tower,Hong Kong (CN),320.4,"1,051",80,2006,concrete,hotel / office
+7,,One Island East,Hong Kong (CN),298.1,978,68,2008,concrete,office
+8,,URA Tower - DA4,Hong Kong (CN),285,935,-,-,,observation / hotel / office
+9,,Cheung Kong Centre,Hong Kong (CN),282.8,928,63,1999,steel,office
+10,,Kwun Tong Town Centre,Hong Kong (CN),279.8,918,-,-,concrete,hotel / office
+11,,Victoria Dockside,Hong Kong (CN),274.5,901,64,2017,concrete,serviced apartments / hotel / office
+12,,The Cullinan I,Hong Kong (CN),269.9,886,68,2008,concrete,residential
+12,,The Cullinan II,Hong Kong (CN),269.9,886,68,2008,concrete,residential / hotel
+14,,The Masterpiece,Hong Kong (CN),257,843,64,2009,concrete,residential / hotel
+15,,Sorrento 1,Hong Kong (CN),256.4,841,75,2003,concrete,residential
+16,,Langham Place Office Tower,Hong Kong (CN),255.1,837,59,2004,concrete,office
+17,,Highcliff,Hong Kong (CN),252.3,828,73,2003,concrete,residential
+18,,The Harbourside,Hong Kong (CN),251.2,824,73,2003,concrete,residential
+19,,Lee Garden One,Hong Kong (CN),240.4,789,50,1998,composite,office
+20,,Sorrento 2,Hong Kong (CN),235.7,773,66,2003,concrete,residential
+21,,Harbourfront Landmark,Hong Kong (CN),232.6,763,69,2003,concrete,residential
+22,,The Arch,Hong Kong (CN),231,758,65,2005,concrete,residential
+23,,One Taikoo Place,Hong Kong (CN),228.6,750,48,2018,concrete,office
+24,,COSCO Tower,Hong Kong (CN),228,748,52,1997,concrete,office
+25,,The Belcher's Tower 5,Hong Kong (CN),226.7,744,61,2001,concrete,residential
+25,,The Belcher's Tower 6,Hong Kong (CN),226.7,744,61,2001,concrete,residential
+27,,Hopewell Centre,Hong Kong (CN),222,728,64,1981,concrete,office
+28,,The Belcher's Tower 1,Hong Kong (CN),220.6,724,63,2000,concrete,residential
+28,,The Belcher's Tower 2,Hong Kong (CN),220.6,724,63,2000,concrete,residential
+30,,Tregunter Tower III,Hong Kong (CN),219.9,721,68,1993,concrete,residential
+31,,The Summit,Hong Kong (CN),219.8,721,69,2002,concrete,residential
+32,,Grand Promenade Towers 2-3-5,Hong Kong (CN),218.9,718,66,2005,concrete,residential
+33,,Sorrento 3,Hong Kong (CN),218,715,64,2003,concrete,residential
+34,,LOHAS Park Le Prestige Tower B,Hong Kong (CN),215,705,70,2011,concrete,residential
+35,,Sun Hung Kai Centre,Hong Kong (CN),214.5,704,56,1991,concrete,office
+36,,The Belcher's Tower 3,Hong Kong (CN),214.4,704,61,2000,concrete,residential
+36,,The Belcher's Tower 8,Hong Kong (CN),214.4,704,61,2001,concrete,residential
+38,,Shangri-La Hotel,Hong Kong (CN),213.1,699,57,1991,,hotel
+39,,Victoria Towers I,Hong Kong (CN),213,699,62,2003,concrete,residential
+39,,Victoria Towers II,Hong Kong (CN),213,699,62,2003,concrete,residential
+39,,Victoria Towers III,Hong Kong (CN),213,699,62,2003,concrete,residential
+42,,Shining Heights,Hong Kong (CN),213,699,55,2009,concrete,residential
+43,,Sorrento 5,Hong Kong (CN),212.1,696,62,2003,concrete,residential
+44,,Indi Home,Hong Kong (CN),212,696,56,2005,concrete,residential
+45,,LOHAS Park The Capitol Oslo,Hong Kong (CN),210,689,69,2009,concrete,residential
+45,,LOHAS Park The Capitol Whistler,Hong Kong (CN),210,689,69,2009,concrete,residential
+47,,One International Finance Centre,Hong Kong (CN),210,689,38,1999,steel,office
+48,,Grand Promenade Tower 1,Hong Kong (CN),209,686,63,2005,concrete,residential
+48,,Grand Promenade Tower 6,Hong Kong (CN),209,686,63,2005,concrete,residential
+50,,Metro Plaza Tower II,Hong Kong (CN),208.9,685,47,1992,concrete,office
+51,,Sorrento 6,Hong Kong (CN),206.1,676,60,2003,concrete,residential
+52,,LOHAS Park The Capitol Madrid,Hong Kong (CN),206,676,67,2009,concrete,residential
+52,,LOHAS Park The Capitol Milan,Hong Kong (CN),206,676,67,2009,concrete,residential
+54,,Bellagio Tower 1-5,Hong Kong (CN),206,676,64,2005,concrete,residential
+55,,Citibank Plaza 1,Hong Kong (CN),205.5,674,51,1992,concrete,office
+56,,May House,Hong Kong (CN),205.5,674,47,2004,concrete,government
+57,,Metro Town Tower 1,Hong Kong (CN),205,673,62,2006,concrete,residential
+57,,Metro Town Tower 2,Hong Kong (CN),205,673,62,2006,concrete,residential
+59,,Four Seasons Place,Hong Kong (CN),205,673,55,2005,concrete,residential / hotel
+60,,Hysan Place,Hong Kong (CN),204.1,670,36,2012,composite,office / retail
+61,,Island Resort Towers 1 & 2,Hong Kong (CN),202.2,663,60,2001,concrete,residential
+61,,Island Resort Towers 3 & 5,Hong Kong (CN),202.2,663,60,2001,concrete,residential
+61,,Island Resort Towers 6 & 7,Hong Kong (CN),202.2,663,60,2001,concrete,residential
+61,,Island Resort Towers 8 & 9,Hong Kong (CN),202.2,663,60,2001,concrete,residential
+65,,China Online Centre,Hong Kong (CN),201.3,660,52,2000,,office
+66,,LOHAS Park Le Prestige Tower A,Hong Kong (CN),200,656,65,2010,concrete,residential
+66,,LOHAS Park Le Prestige Tower C,Hong Kong (CN),200,656,65,2012,concrete,residential
+66,,LOHAS Park The Capitol Florence,Hong Kong (CN),200,656,65,2009,concrete,residential
+69,,Conrad Hong Kong,Hong Kong (CN),198.9,653,61,1990,,hotel / residential
+70,,Queensway Government Office Building,Hong Kong (CN),198.7,652,47,1985,,office
+71,,Le Point Tower 6,Hong Kong (CN),198.3,650,60,2008,concrete,residential
+71,,Le Point Tower 7,Hong Kong (CN),198.3,650,60,2008,concrete,residential
+73,,Bellagio Tower 6-9,Hong Kong (CN),198,650,60,2002,concrete,residential
+74,,The Merton 1,Hong Kong (CN),197,646,59,2005,concrete,residential
+75,,Wharf Cable Tower,Hong Kong (CN),196.6,645,41,1993,steel,office
+76,,Aigburth,Hong Kong (CN),195.9,643,48,1999,concrete,residential
+77,,Le Point Tower 10,Hong Kong (CN),195,640,59,2008,concrete,residential
+77,,Le Point Tower 8,Hong Kong (CN),195,640,59,2008,concrete,residential
+77,,Le Point Tower 9,Hong Kong (CN),195,640,59,2008,concrete,residential
+80,,Vision City Tower 2,Hong Kong (CN),195,640,54,2007,concrete,residential
+80,,Vision City Tower 3,Hong Kong (CN),195,640,54,2007,concrete,residential
+80,,Vision City Tower 5,Hong Kong (CN),195,640,54,2007,concrete,residential
+83,,"NatWest Tower, Times Square",Hong Kong (CN),193.9,636,46,1993,concrete,office / retail
+84,,Manhattan Hill 1-2,Hong Kong (CN),193,633,51,2007,concrete,residential
+85,,Vision City Tower 1,Hong Kong (CN),192,630,53,2007,concrete,residential
+86,,39 Conduit Road,Hong Kong (CN),191.6,629,42,2009,concrete,residential
+87,,Banyan Garden 2,Hong Kong (CN),191.4,628,57,2003,concrete,residential
+87,,Banyan Garden 6,Hong Kong (CN),191.4,628,57,2003,concrete,residential
+87,,Banyan Garden 7,Hong Kong (CN),191.4,628,57,2003,concrete,residential
+90,,Two Taikoo Place,Hong Kong (CN),191,627,46,2021,,office
+91,,The Merton 2,Hong Kong (CN),189,620,56,2005,concrete,residential
+92,,The Centrium,Hong Kong (CN),188.9,620,41,2001,concrete,office
+93,,Metro Town Tower 3,Hong Kong (CN),188,617,57,2006,concrete,residential
+93,,Metro Town Tower 5,Hong Kong (CN),188,617,57,2006,concrete,residential
+95,,Exchange Square #1,Hong Kong (CN),188,617,52,1985,concrete,office
+95,,Exchange Square #2,Hong Kong (CN),188,617,52,1985,concrete,office
+97,,Oxford House Time Warner,Hong Kong (CN),188,617,41,1999,,office
+98,,9 Queen's Road Central,Hong Kong (CN),187.3,614,39,1991,steel,office
+99,,Millennium City 5,Hong Kong (CN),187,614,45,2004,,office
+100,,Landmark East Tower 1,Hong Kong (CN),187,614,43,2008,concrete,office
+100,,Landmark East Tower 2,Hong Kong (CN),187,614,43,2008,concrete,hotel / office
+102,,Standard Chartered Bank,Hong Kong (CN),187,614,42,1990,steel,office
+103,,Festival City III Tower 5,Hong Kong (CN),186.5,612,58,2011,concrete,residential
+104,,Entertainment Building,Hong Kong (CN),186.5,612,32,1993,,office
+105,,Manhattan Hill 3,Hong Kong (CN),186.4,612,48,2007,concrete,residential
+105,,Manhattan Hill 5,Hong Kong (CN),186.4,612,48,2007,concrete,residential
+105,,Manhattan Hill 6,Hong Kong (CN),186.4,612,48,2007,concrete,residential
+108,,Lippo Tower,Hong Kong (CN),186,610,48,1988,,office
+109,,The Westpoint,Hong Kong (CN),185.6,609,41,1999,,office
+110,,Manhattan Heights,Hong Kong (CN),185,607,55,2000,concrete,residential
+111,,Sino Plaza,Hong Kong (CN),185,607,38,1992,steel,office
+112,,AIA Central,Hong Kong (CN),185,607,35,2005,composite,office
+113,,Festival City III Tower 1,Hong Kong (CN),184.7,606,58,2011,concrete,residential
+113,,Festival City III Tower 2,Hong Kong (CN),184.7,606,58,2011,concrete,residential
+113,,Festival City III Tower 3,Hong Kong (CN),184.7,606,58,2011,concrete,residential
+116,,Ocean Pointe,Hong Kong (CN),183.7,603,53,2001,concrete,residential
+117,,Cadogan,Hong Kong (CN),183.5,602,49,2014,concrete,residential
+118,,Vision City Tower 6,Hong Kong (CN),183,600,50,2007,concrete,residential
+119,,Banyan Garden 5,Hong Kong (CN),182.7,599,54,2003,concrete,residential
+120,,Branksome Crest,Hong Kong (CN),182,597,47,2003,concrete,residential
+121,,Three Pacific Place,Hong Kong (CN),182,597,40,2004,concrete,office
+122,,Convention Plaza Office Tower,Hong Kong (CN),181.3,595,50,1990,,office
+123,,The Pavilia Bay Tower 1,Hong Kong (CN),181.2,595,51,2018,concrete,residential
+124,,Liberte 1,Hong Kong (CN),180.9,594,51,2003,concrete,residential
+124,,Liberte 2,Hong Kong (CN),180.9,594,51,2003,concrete,residential
+124,,Liberte 3,Hong Kong (CN),180.9,594,51,2003,concrete,residential
+127,,Immigration Tower,Hong Kong (CN),180.8,593,49,1990,,office
+127,,Revenue Tower,Hong Kong (CN),180.8,593,49,1990,,office
+129,,AIA Tower,Hong Kong (CN),180.3,592,44,1998,,office
+130,,Liberte 5,Hong Kong (CN),180.2,591,52,2003,concrete,residential
+130,,Liberte 6,Hong Kong (CN),180.2,591,52,2003,concrete,residential
+132,,The Merton 3,Hong Kong (CN),180,591,51,2005,concrete,residential
+133,,Banyan Garden 3,Hong Kong (CN),179.8,590,53,2003,concrete,residential
+134,,Hong Kong and Shanghai Banking Corporation Headquarters,Hong Kong (CN),178.8,587,43,1985,steel,office
+135,,Jardine House,Hong Kong (CN),178.5,586,52,1973,concrete,office
+136,,China Resources Building,Hong Kong (CN),178,584,50,1983,concrete,office
+137,,Grand Waterfront 1-5,Hong Kong (CN),177,581,57,2007,concrete,residential
+137,,Grand Waterfront 6,Hong Kong (CN),177,581,57,2007,concrete,residential
+139,,The Oakhill,Hong Kong (CN),177,581,53,2011,concrete,residential
+140,,Azura,Hong Kong (CN),177,581,51,2012,concrete,residential
+141,,Far East Finance Centre,Hong Kong (CN),176.1,578,48,1982,steel,office
+142,,One Kowloon,Hong Kong (CN),176,577,39,2007,,office
+143,,Billionaire Royale,Hong Kong (CN),175.5,576,54,2010,concrete,residential
+144,,Oscar by the Sea Tower 5,Hong Kong (CN),175.1,574,59,2002,concrete,residential
+145,,Vianni Cove 2,Hong Kong (CN),175,574,52,2003,concrete,residential
+145,,Vianni Cove 3,Hong Kong (CN),175,574,52,2003,concrete,residential
+147,,Enterprise Square 3,Hong Kong (CN),175,574,41,2004,concrete,office
+148,,Tavistock II,Hong Kong (CN),175,574,46,1999,concrete,residential
+149,,Ocean Shores Tower 1-3,Hong Kong (CN),174.4,572,58,2001,concrete,residential
+149,,Ocean Shores Tower 15,Hong Kong (CN),174.4,572,58,2003,concrete,residential
+149,,Ocean Shores Tower 16-17,Hong Kong (CN),174.4,572,58,2003,concrete,residential
+149,,Ocean Shores Tower 5,Hong Kong (CN),174.4,572,58,2001,concrete,residential
+149,,Ocean Shores Tower 6,Hong Kong (CN),174.4,572,58,2001,concrete,residential
+149,,Ocean Shores Tower 7,Hong Kong (CN),174.4,572,58,2002,concrete,residential
+149,,Ocean Shores Tower 8,Hong Kong (CN),174.4,572,58,2002,concrete,residential
+149,,Ocean Shores Tower 9-10,Hong Kong (CN),174.4,572,58,2002,concrete,residential
+157,,The Pavilia Bay Tower 2,Hong Kong (CN),174,571,48,2018,concrete,residential
+158,,Metro Plaza Tower I,Hong Kong (CN),173.9,571,47,1992,concrete,office
+159,,Enterprise Square 5 / MegaBOX,Hong Kong (CN),173,568,35,2007,,office / retail
+160,,Queen's Garden,Hong Kong (CN),172.7,567,34,1992,concrete,residential
+161,,The ONE,Hong Kong (CN),172.1,565,24,2010,steel/concrete,retail
+162,,The Dynasty 1,Hong Kong (CN),172,564,50,2009,concrete,residential / retail
+162,,The Dynasty 2,Hong Kong (CN),172,564,50,2009,concrete,residential / retail
+164,,"Peregrine Tower, Lippo Centre",Hong Kong (CN),172,564,44,1988,,office
+165,,Dorset House/PCCW Tower,Hong Kong (CN),172,564,42,1994,,office
+166,,Vianni Cove 1,Hong Kong (CN),171.6,563,51,2003,concrete,residential
+167,,Ocean Shores Tower 11-13,Hong Kong (CN),171.4,562,57,2003,concrete,residential
+168,,Metro Harbourview 1,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 10,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 2,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 3,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 4,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 5,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 6,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 7,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 8,Hong Kong (CN),171,561,50,2003,concrete,residential
+168,,Metro Harbourview 9,Hong Kong (CN),171,561,50,2003,concrete,residential
+178,,Festival City I Tower 2,Hong Kong (CN),170.4,559,51,2010,concrete,residential
+178,,Festival City I Tower 3,Hong Kong (CN),170.4,559,51,2010,concrete,residential
+180,,L'Hotel Nina Tower,Hong Kong (CN),170.4,559,42,2006,concrete,hotel
+181,,Arezzo,Hong Kong (CN),170,558,48,2015,concrete,residential
+182,,Festival City II Tower 5,Hong Kong (CN),170,558,55,2010,concrete,residential
+183,,Festival City II Tower 3,Hong Kong (CN),170,558,54,2010,concrete,residential
+184,,Langham Place Hotel,Hong Kong (CN),169.8,557,42,2004,concrete,hotel
+185,,Albany Cove 6,Hong Kong (CN),169.5,556,54,2004,concrete,residential
+185,,Albany Cove 7,Hong Kong (CN),169.5,556,54,2004,concrete,residential
+185,,Albany Cove 8,Hong Kong (CN),169.5,556,54,2004,concrete,residential
+185,,Caribbean Coast 10,Hong Kong (CN),169.5,556,54,2005,concrete,residential
+185,,Caribbean Coast 11,Hong Kong (CN),169.5,556,54,2005,concrete,residential
+185,,Caribbean Coast 12,Hong Kong (CN),169.5,556,54,2005,concrete,residential
+185,,Caribbean Coast 13,Hong Kong (CN),169.5,556,54,2005,concrete,residential
+185,,Caribbean Coast 15,Hong Kong (CN),169.5,556,54,2005,concrete,residential
+185,,Caribbean Coast 9,Hong Kong (CN),169.5,556,54,2005,concrete,residential
+185,,Monterey Cove 2,Hong Kong (CN),169.5,556,54,2003,concrete,residential
+185,,Monterey Cove 3,Hong Kong (CN),169.5,556,54,2003,concrete,residential
+185,,Monterey Cove 5,Hong Kong (CN),169.5,556,54,2003,concrete,residential
+197,,Oscar by the Sea Tower 8,Hong Kong (CN),169.5,556,57,2002,concrete,residential
+198,,Summit Terrace 3,Hong Kong (CN),169,554,47,2003,concrete,residential
+198,,Summit Terrace 5,Hong Kong (CN),169,554,47,2003,concrete,residential
+200,,"Shell Tower, Times Square",Hong Kong (CN),168.8,554,39,1993,concrete,office / retail
+201,,"The Avenue Phase 2, T2",Hong Kong (CN),168.7,553,43,2015,concrete,residential
+201,,"The Avenue Phase 2, T3",Hong Kong (CN),168.7,553,43,2015,concrete,residential
+203,,Residence Oasis 1,Hong Kong (CN),168.3,552,55,2005,concrete,residential
+203,,Residence Oasis 2,Hong Kong (CN),168.3,552,55,2005,concrete,residential
+203,,Residence Oasis 3,Hong Kong (CN),168.3,552,55,2005,concrete,residential
+206,,The Grandiose 1,Hong Kong (CN),168,551,55,2006,concrete,residential
+206,,The Grandiose 2,Hong Kong (CN),168,551,55,2006,concrete,residential
+206,,The Grandiose 3,Hong Kong (CN),168,551,55,2006,concrete,residential
+209,,Hong Kong Plaza,Hong Kong (CN),168,551,43,1984,,office
+210,,Park Central 1,Hong Kong (CN),167.9,551,54,2002,concrete,residential
+210,,Park Central 12,Hong Kong (CN),167.9,551,54,2002,concrete,residential
+210,,Park Central 13,Hong Kong (CN),167.9,551,54,2003,concrete,residential
+210,,Park Central 2,Hong Kong (CN),167.9,551,54,2002,concrete,residential
+210,,Park Central 3,Hong Kong (CN),167.9,551,54,2002,concrete,residential
+210,,Park Central 5,Hong Kong (CN),167.9,551,54,2002,concrete,residential
+210,,Park Central 6,Hong Kong (CN),167.9,551,54,2002,concrete,residential
+217,,Oscar by the Sea Tower 6,Hong Kong (CN),167.8,551,58,2002,concrete,residential
+217,,Oscar by the Sea Tower 7,Hong Kong (CN),167.8,551,58,2002,concrete,residential
+219,,Festival City I Tower 1,Hong Kong (CN),167.3,549,49,2010,concrete,residential
+219,,Festival City I Tower 5,Hong Kong (CN),167.3,549,49,2010,concrete,residential
+221,,The Latitude Tower 6,Hong Kong (CN),167,548,48,2010,concrete,residential
+221,,The Latitude Tower 7,Hong Kong (CN),167,548,48,2010,concrete,residential
+221,,The Latitude Tower 8,Hong Kong (CN),167,548,48,2010,concrete,residential
+224,,The Latitude Tower 1,Hong Kong (CN),167,548,45,2010,concrete,residential
+224,,The Latitude Tower 2,Hong Kong (CN),167,548,45,2010,concrete,residential
+226,,Festival City II Tower 1,Hong Kong (CN),167,548,52,2010,concrete,residential
+226,,Festival City II Tower 2,Hong Kong (CN),167,548,52,2010,concrete,residential
+228,,Asia Pacific Finance Tower,Hong Kong (CN),166.7,547,39,1992,concrete,office
+229,,Tierra Verde Tower 10-12,Hong Kong (CN),166.7,547,52,2000,concrete,residential
+230,,The Palazzo,Hong Kong (CN),166.2,545,38,2010,concrete,residential / retail
+231,,Summit Terrace 2,Hong Kong (CN),166,545,46,2003,concrete,residential
+232,,La Cite Noble Tower 3,Hong Kong (CN),165.8,544,49,1999,concrete,residential
+233,,Park Central 11,Hong Kong (CN),165.2,542,53,2002,concrete,residential
+234,,The Serenade Tower 1,Hong Kong (CN),165.1,542,52,2010,concrete,residential
+234,,The Serenade Tower 2,Hong Kong (CN),165.1,542,52,2010,concrete,residential
+236,,Residence Oasis 5,Hong Kong (CN),165,541,54,2005,concrete,residential
+236,,Residence Oasis 6,Hong Kong (CN),165,541,54,2005,concrete,residential
+236,,Residence Oasis 7,Hong Kong (CN),165,541,54,2005,concrete,residential
+239,,Four Seasons Hotel Hong Kong,Hong Kong (CN),165,541,42,2005,concrete,hotel
+240,,Lime Stardom,Hong Kong (CN),165,541,37,2011,concrete,residential
+241,,Grand Hyatt Serviced Apartments,Hong Kong (CN),164.9,541,46,1990,,serviced apartments
+242,,Sky Tower 1-2,Hong Kong (CN),164.7,540,52,2004,concrete,residential
+242,,Sky Tower 3-7,Hong Kong (CN),164.7,540,52,2004,concrete,residential
+244,,J.W. Marriott and The Upper House,Hong Kong (CN),164.5,540,50,1988,,hotel
+245,,The Gloucester,Hong Kong (CN),164.2,539,41,2013,concrete,residential
+246,,Seaview Crescent 5,Hong Kong (CN),164,538,53,2003,concrete,residential
+247,,Verbena Heights 3-6,Hong Kong (CN),163.8,537,52,1997,concrete,residential
+248,,Monterey Cove 1,Hong Kong (CN),163.6,537,52,2003,concrete,residential
+249,,Upton,Hong Kong (CN),163.4,536,43,2015,concrete,residential
+250,,One Pacific Heights,Hong Kong (CN),163.4,536,39,2009,,residential
+251,,La Cite Noble Tower 1,Hong Kong (CN),163,535,48,1999,concrete,residential
+251,,La Cite Noble Tower 4,Hong Kong (CN),163,535,48,1999,concrete,residential
+251,,La Cite Noble Tower 6,Hong Kong (CN),163,535,48,1999,concrete,residential
+254,,Island Crest Tower 1,Hong Kong (CN),162.8,534,46,2009,,residential
+254,,Island Crest Tower 2,Hong Kong (CN),162.8,534,46,2009,,residential
+256,,Park Central 10,Hong Kong (CN),162.4,533,52,2002,concrete,residential
+256,,Park Central 7,Hong Kong (CN),162.4,533,52,2002,concrete,residential
+256,,Park Central 8,Hong Kong (CN),162.4,533,52,2002,concrete,residential
+256,,Park Central 9,Hong Kong (CN),162.4,533,52,2002,concrete,residential
+260,,Banyan Garden 1,Hong Kong (CN),162.4,533,47,2003,concrete,residential
+260,,Banyan Garden 8,Hong Kong (CN),162.4,533,47,2003,concrete,residential
+262,,118 Connaught Road West,Hong Kong (CN),162,531,40,1994,,office
+263,,One Pacific Place,Hong Kong (CN),161.8,531,40,1988,,office
+264,,Seaview Crescent 1-3,Hong Kong (CN),161,528,52,2003,concrete,residential
+265,,"Coastal Skyline 1-3,5-6, Tung Chung",Hong Kong (CN),161,528,50,2002,concrete,residential
+265,,"Coastal Skyline 7-8, Tung Chung",Hong Kong (CN),161,528,50,2004,concrete,residential
+267,,Les Saisons,Hong Kong (CN),160.1,525,50,2002,concrete,residential
+268,,Metropolis 1,Hong Kong (CN),160.1,525,50,2005,concrete,residential
+268,,Metropolis 2,Hong Kong (CN),160.1,525,50,2005,concrete,residential
+268,,Metropolis 3,Hong Kong (CN),160.1,525,50,2005,concrete,residential
+268,,Metropolis 5,Hong Kong (CN),160.1,525,50,2005,concrete,residential
+272,,Belcher's Hill,Hong Kong (CN),160,525,49,2011,concrete,residential
+273,,City Point Tower 1,Hong Kong (CN),160,525,48,2015,concrete,residential
+273,,City Point Tower 2,Hong Kong (CN),160,525,48,2015,concrete,residential
+273,,City Point Tower 3,Hong Kong (CN),160,525,48,2015,concrete,residential
+276,,Island Lodge,Hong Kong (CN),160,525,45,2009,concrete,residential
+277,,One Peking Road,Hong Kong (CN),160,525,30,2003,composite,office
+278,,One Wanchai,Hong Kong (CN),159.7,524,42,2012,concrete,residential
+279,,The Landmark Gloucester Tower,Hong Kong (CN),159.4,523,46,1980,concrete,office
+280,,The Landmark Edinburgh Tower,Hong Kong (CN),159.4,523,45,1983,concrete,hotel / office
+281,,Dynasty Court Tower 1-2,Hong Kong (CN),159,522,47,1991,concrete,residential
+282,,Cambridge House,Hong Kong (CN),159,522,36,2003,,office
+283,,Galaxia Tower 2,Hong Kong (CN),158.3,519,52,1998,concrete,residential
+283,,Galaxia Tower 3,Hong Kong (CN),158.3,519,52,1998,concrete,residential
+283,,Galaxia Tower 5,Hong Kong (CN),158.3,519,52,1998,concrete,residential
+286,,148 Electric Road,Hong Kong (CN),158,518,41,2001,,office
+287,,SOHO 189,Hong Kong (CN),157.9,518,-,2012,,residential
+288,,Century Gateway 1,Hong Kong (CN),157.7,517,44,2014,concrete,residential
+289,,La Cite Noble Tower 2,Hong Kong (CN),157.4,516,46,1999,concrete,residential
+289,,La Cite Noble Tower 5,Hong Kong (CN),157.4,516,46,1999,concrete,residential
+291,,The Forest Hills,Hong Kong (CN),157.3,516,48,2008,,residential
+292,,Century Gateway 5,Hong Kong (CN),157.3,516,43,2014,concrete,residential
+293,,Park Towers One,Hong Kong (CN),157.1,515,51,1989,concrete,residential
+294,,City Point Tower 5,Hong Kong (CN),157,515,47,2015,concrete,residential
+294,,City Point Tower 6,Hong Kong (CN),157,515,47,2015,concrete,residential
+296,,Summit Terrace 1,Hong Kong (CN),157,515,43,2003,concrete,residential
+297,,Le Sommet,Hong Kong (CN),156.8,514,50,2000,concrete,residential
+298,,"Ellery Terrace, Kowloon",Hong Kong (CN),156.5,513,45,2000,concrete,residential
+299,,Liberte 7,Hong Kong (CN),156.4,513,44,2003,concrete,residential
+300,,China Merchants Tower,Hong Kong (CN),156,512,38,1985,composite,office
+300,,Shun Tak Centre West,Hong Kong (CN),156,512,38,1985,composite,office
+302,,Sunlight Tower,Hong Kong (CN),155.9,512,40,1999,steel,office
+303,,Park Avenue Towers 6-10,Hong Kong (CN),155.6,510,51,2000,concrete,residential
+304,,Galaxia Tower 1,Hong Kong (CN),155.3,509,51,1998,concrete,residential
+304,,Galaxia Tower 6,Hong Kong (CN),155.3,509,51,1998,concrete,residential
+306,,Henley Building,Hong Kong (CN),155.1,509,36,1998,,office
+307,,Bank of Communications Tower,Hong Kong (CN),155,509,33,1996,concrete,office
+308,,Imperial Court Block C,Hong Kong (CN),154.5,507,52,1996,,residential
+309,,Li Po Chun Chambers,Hong Kong (CN),154.4,506,31,1995,,office
+310,,Metro City I Tower 3,Hong Kong (CN),153.9,505,43,1996,concrete,residential
+310,,Metro City I Tower 4,Hong Kong (CN),153.9,505,43,1996,concrete,residential
+310,,Metro City I Tower 5,Hong Kong (CN),153.9,505,43,1996,concrete,residential
+310,,Metro City I Tower 6,Hong Kong (CN),153.9,505,43,1996,concrete,residential
+314,,Metro City I Tower 1,Hong Kong (CN),153.9,505,42,1996,concrete,residential
+314,,Metro City I Tower 2,Hong Kong (CN),153.9,505,42,1996,concrete,residential
+316,,The Panorama,Hong Kong (CN),153.7,504,52,1999,concrete,residential
+317,,Liberte 8,Hong Kong (CN),153.4,503,43,2003,concrete,residential
+318,,Century Gateway 2,Hong Kong (CN),153,502,39,2014,concrete,residential
+319,,The Zenith 1,Hong Kong (CN),152.7,501,47,2007,concrete,residential
+320,,Robinson Place Tower A,Hong Kong (CN),152.7,501,48,1994,concrete,residential
+321,,York Place,Hong Kong (CN),152.5,500,40,2009,concrete,residential
+322,,Bayshore Apartments,Hong Kong (CN),152.4,500,38,2001,concrete,residential
+323,,Thorn Cliff,Hong Kong (CN),152.1,499,46,1982,concrete,residential
+324,,World Trade Centre,Hong Kong (CN),151.9,498,40,1975,,office / retail
+325,,Nan Fung Plaza 1,Hong Kong (CN),151.5,497,49,2000,concrete,residential
+325,,Nan Fung Plaza 2,Hong Kong (CN),151.5,497,49,2000,concrete,residential
+327,,New World Tower 1,Hong Kong (CN),151.5,497,43,1980,composite,office
+328,,Century Gateway 6,Hong Kong (CN),151.2,496,41,2014,concrete,residential
+329,,31 Robinson Road,Hong Kong (CN),151.2,496,-,2007,,residential
+330,,Oscar by The Sea Tower 3,Hong Kong (CN),151.1,496,48,2002,concrete,residential
+331,,The Seymour,Hong Kong (CN),151,495,48,2012,concrete,residential
+332,,Dynasty Court Tower 3-5,Hong Kong (CN),150.9,495,46,1992,concrete,residential
+333,,Skyline Tower,Hong Kong (CN),150.7,494,38,2004,,office
+334,,East Point City Tower 1,Hong Kong (CN),150.6,494,49,2000,concrete,residential
+334,,East Point City Tower 2,Hong Kong (CN),150.6,494,49,2000,concrete,residential
+334,,East Point City Tower 3,Hong Kong (CN),150.6,494,49,2000,concrete,residential
+334,,East Point City Tower 5,Hong Kong (CN),150.6,494,49,2000,concrete,residential
+334,,East Point City Tower 6,Hong Kong (CN),150.6,494,49,2000,concrete,residential
+334,,East Point City Tower 7,Hong Kong (CN),150.6,494,49,2000,concrete,residential
+334,,East Point City Tower 8,Hong Kong (CN),150.6,494,49,2000,concrete,residential
+341,,Queen's Terrace 1,Hong Kong (CN),150.6,494,50,2003,concrete,residential
+342,,Royal Penisula 2-5,Hong Kong (CN),150.5,494,50,2001,concrete,residential
+343,,Harbour One,Hong Kong (CN),150.3,493,38,2012,,residential
+344,,Sun Tuen Mun Centre 1,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 10,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 2,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 3,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 4,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 5,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 6,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 7,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 8,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+344,,Sun Tuen Mun Centre 9,Hong Kong (CN),150.3,493,48,1991,concrete,residential
+354,,Robinson Place Tower B,Hong Kong (CN),150.2,493,48,1994,concrete,residential
+355,,Broadview Villa,Hong Kong (CN),150,492,50,1996,concrete,residential
+356,,VISTA,Hong Kong (CN),150,492,46,2008,concrete,residential / retail
+357,,Goldin Financial Global Centre,Hong Kong (CN),150,492,27,2016,,office
+358,,Manulife Tower,Hong Kong (CN),150,492,45,1990,,office
+359,,Serenity Place 1,Hong Kong (CN),149.9,492,45,2000,concrete,residential
+359,,Serenity Place 2,Hong Kong (CN),149.9,492,45,2000,concrete,residential
+359,,Serenity Place 4,Hong Kong (CN),149.9,492,45,2000,concrete,residential
+359,,Serenity Place 5,Hong Kong (CN),149.9,492,45,2000,concrete,residential
+363,,Broadview Court 3,Hong Kong (CN),149,489,47,2001,concrete,residential
+363,,Broadview Court 4,Hong Kong (CN),149,489,47,2001,concrete,residential
+365,,Renaissance Harbour View Hotel,Hong Kong (CN),148.9,489,51,1989,,hotel
+366,,Maritime Bay 1,Hong Kong (CN),148.9,489,49,1998,concrete,residential
+366,,Maritime Bay 2,Hong Kong (CN),148.9,489,49,1998,concrete,residential
+368,,Hong Kong Sanitorium & Hospital - Li Shu Pui Block,Hong Kong (CN),148.5,487,38,2008,composite,hospital
+369,,Villa Esplanada 10,Hong Kong (CN),148,486,44,2001,concrete,residential
+369,,Villa Esplanada 11,Hong Kong (CN),148,486,44,2001,concrete,residential
+369,,Villa Esplanada 8,Hong Kong (CN),148,486,44,2001,concrete,residential
+369,,Villa Esplanada 9,Hong Kong (CN),148,486,44,2001,concrete,residential
+373,,City Point Tower 7,Hong Kong (CN),148,486,44,2015,concrete,residential
+373,,City Point Tower 8,Hong Kong (CN),148,486,44,2015,concrete,residential
+375,,Bel Air Heights 1,Hong Kong (CN),147.5,484,50,1999,concrete,residential
+375,,Bel Air Heights 2,Hong Kong (CN),147.5,484,50,1999,concrete,residential
+377,,Birchwood Place,Hong Kong (CN),147.2,483,44,1989,concrete,residential
+378,,Century Gateway 3,Hong Kong (CN),147.2,483,38,2014,concrete,residential
+379,,Park Avenue Tower 1,Hong Kong (CN),147,482,48,2000,concrete,residential
+379,,Park Avenue Tower 2,Hong Kong (CN),147,482,48,2000,concrete,residential
+379,,Park Avenue Tower 3,Hong Kong (CN),147,482,48,2000,concrete,residential
+379,,Park Avenue Tower 5,Hong Kong (CN),147,482,48,2000,concrete,residential
+383,,Radiant Towers 1,Hong Kong (CN),146.9,482,47,1997,concrete,residential
+383,,Radiant Towers 2,Hong Kong (CN),146.9,482,47,1997,concrete,residential
+385,,The Colonnade,Hong Kong (CN),146.7,481,33,2001,concrete,residential
+386,,Serenity Place 3,Hong Kong (CN),146.5,481,44,2000,concrete,residential
+387,,The Zenith 2,Hong Kong (CN),146,479,46,2007,concrete,residential
+387,,The Zenith 3,Hong Kong (CN),146,479,46,2007,concrete,residential
+389,,Bank of America Tower,Hong Kong (CN),146,479,38,1975,,office
+390,,Great Eagle Centre,Hong Kong (CN),146,479,35,1983,,office
+390,,Harbour Centre,Hong Kong (CN),146,479,35,1983,,office
+392,,MLC Millennia Plaza,Hong Kong (CN),145.7,478,30,1999,steel,office
+393,,Kornville Tower 1,Hong Kong (CN),145.6,478,49,1995,concrete,residential
+393,,Kornville Tower 2,Hong Kong (CN),145.6,478,49,1995,concrete,residential
+395,,Grand Terrace,Hong Kong (CN),145.6,478,46,2001,concrete,residential
+396,,Century Gateway 7,Hong Kong (CN),145.4,477,40,2014,concrete,residential
+397,,Tierra Verde 1,Hong Kong (CN),145,476,51,2000,concrete,residential
+398,,The Pinnacle 1,Hong Kong (CN),145,476,50,1999,concrete,residential
+398,,The Pinnacle 2,Hong Kong (CN),145,476,50,1999,concrete,residential
+398,,The Pinnacle 3,Hong Kong (CN),145,476,50,1999,concrete,residential
+398,,The Pinnacle 4,Hong Kong (CN),145,476,50,1999,concrete,residential
+402,,Broad View Villa,Hong Kong (CN),145,476,49,1995,concrete,residential
+403,,New Haven 1-3,Hong Kong (CN),145,476,41,2003,concrete,residential
+404,,Western Harbour Centre,Hong Kong (CN),144.3,473,29,1997,,office
+405,,Three Exchange Square,Hong Kong (CN),144,472,32,1988,concrete,office
+406,,Broadview Court 1,Hong Kong (CN),143.9,472,45,2001,concrete,residential
+406,,Broadview Court 2,Hong Kong (CN),143.9,472,45,2001,concrete,residential
+408,,iSQUARE,Hong Kong (CN),143.7,471,27,2009,concrete,retail
+409,,Discovery Park Tower 1,Hong Kong (CN),143.3,470,48,1998,concrete,residential
+409,,Discovery Park Tower 2,Hong Kong (CN),143.3,470,48,1998,concrete,residential
+409,,Discovery Park Tower 3,Hong Kong (CN),143.3,470,48,1998,concrete,residential
+409,,Discovery Park Tower 5,Hong Kong (CN),143.3,470,48,1998,concrete,residential
+413,,Villa Esplanada 3,Hong Kong (CN),142.6,468,40,2001,concrete,residential
+413,,Villa Esplanada 5,Hong Kong (CN),142.6,468,40,2001,concrete,residential
+413,,Villa Esplanada 6,Hong Kong (CN),142.6,468,40,2001,concrete,residential
+413,,Villa Esplanada 7,Hong Kong (CN),142.6,468,40,2001,concrete,residential
+417,,Dah Sing Financial Centre,Hong Kong (CN),142.5,467,39,1991,,office
+418,,The Waterfront 1,Hong Kong (CN),142.5,467,46,2000,concrete,residential
+418,,The Waterfront 2,Hong Kong (CN),142.5,467,46,2000,concrete,residential
+418,,The Waterfront 3,Hong Kong (CN),142.5,467,46,2000,concrete,residential
+418,,The Waterfront 5,Hong Kong (CN),142.5,467,46,2000,concrete,residential
+418,,The Waterfront 6,Hong Kong (CN),142.5,467,46,2000,concrete,residential
+418,,The Waterfront 7,Hong Kong (CN),142.5,467,46,2000,concrete,residential
+424,,Sing Pao Centre,Hong Kong (CN),142.4,467,27,2000,,residential
+425,,633 Kings Road,Hong Kong (CN),142.3,467,35,2007,,office
+426,,Tierra Verde 2,Hong Kong (CN),142.2,467,50,1999,concrete,residential
+426,,Tierra Verde 3,Hong Kong (CN),142.2,467,50,1999,concrete,residential
+426,,Tierra Verde 3A,Hong Kong (CN),142.2,467,50,1999,concrete,residential
+426,,Tierra Verde 5,Hong Kong (CN),142.2,467,50,1999,concrete,residential
+430,,The Manhattan,Hong Kong (CN),142.1,466,48,1986,concrete,residential
+431,,Windsor House,Hong Kong (CN),142,466,42,1978,concrete,office / retail
+432,,Morrison Plaza,Hong Kong (CN),142,466,34,1996,,office
+433,,Well On Garden 1,Hong Kong (CN),141.2,463,44,1994,concrete,residential
+433,,Well On Garden 2,Hong Kong (CN),141.2,463,44,1994,concrete,residential
+433,,Well On Garden 3,Hong Kong (CN),141.2,463,44,1994,concrete,residential
+433,,Well On Garden 4,Hong Kong (CN),141.2,463,44,1994,concrete,residential
+437,,Oscar by The Sea Tower 1,Hong Kong (CN),141.2,463,42,2002,concrete,residential
+438,,Nan Fung Plaza 5,Hong Kong (CN),141,463,45,2000,concrete,residential
+439,,Ibis Hong Kong Central and Sheung Wan Hotel,Hong Kong (CN),141,463,33,2012,concrete,hotel
+440,,Villa Esplanada 1,Hong Kong (CN),140.7,461,39,2001,composite,residential
+440,,Villa Esplanada 2,Hong Kong (CN),140.7,461,39,2001,concrete,residential
+442,,Oscar by the Sea Tower 2,Hong Kong (CN),140.4,461,46,2002,concrete,residential
+443,,Nan Fung Plaza 6,Hong Kong (CN),140,459,45,2000,concrete,residential
+444,,Lexington Hill,Hong Kong (CN),140,459,43,2014,concrete,residential
+445,,Imperial Cullinan Tower 1,Hong Kong (CN),140,459,33,2012,concrete,residential
+445,,Imperial Cullinan Tower 2,Hong Kong (CN),140,459,33,2012,concrete,residential
+445,,Imperial Cullinan Tower 3,Hong Kong (CN),140,459,33,2012,concrete,residential
+445,,Imperial Cullinan Tower 5,Hong Kong (CN),140,459,33,2012,concrete,residential
+445,,Imperial Cullinan Tower 8,Hong Kong (CN),140,459,33,2012,concrete,residential
+445,,United Centre,Hong Kong (CN),140,459,33,1981,,office
+451,,"Larvotto Towers 1, 2",Hong Kong (CN),139.8,459,35,2011,concrete,residential
+451,,"Larvotto Towers 3, 5, 6, 7",Hong Kong (CN),139.8,459,35,2011,concrete,residential
+453,,Millennium City 1 - Tower 1,Hong Kong (CN),139.8,459,32,1998,,office
+454,,Century Gateway 8,Hong Kong (CN),139.3,457,38,2014,concrete,residential
+455,,Argenta,Hong Kong (CN),139,456,36,2013,concrete,residential
+456,,Princeton Tower,Hong Kong (CN),138.7,455,41,2004,,residential
+457,,Wu Chung House,Hong Kong (CN),138.4,454,40,1991,,office
+458,,East,Hong Kong (CN),138.4,454,32,2010,concrete,hotel
+459,,AIA Financial Centre,Hong Kong (CN),138.4,454,27,2009,,office
+460,,"The Avenue Phase 2, T1",Hong Kong (CN),138,453,33,2015,concrete,residential
+461,,Kerry Centre,Hong Kong (CN),138,453,30,2011,,office
+462,,Millennium City 1 - Standard Chartered Tower,Hong Kong (CN),137.8,452,32,1998,,office
+463,,Two Chinachem Central,Hong Kong (CN),137.7,452,27,2017,concrete,office / retail
+464,,Berkshire House,Hong Kong (CN),137.2,450,31,1998,,office
+465,,50 Connaught Road Central,Hong Kong (CN),137.2,450,26,2011,,office
+466,,Chater House,Hong Kong (CN),137,449,30,2002,,office
+467,,Queen Mary Hospital Block K,Hong Kong (CN),137,449,27,1991,concrete,hospital
+468,,Nan Fung Plaza 3,Hong Kong (CN),136.9,449,44,1999,concrete,residential
+469,,Tierra Verde 9,Hong Kong (CN),136.6,448,48,2000,concrete,residential
+470,,"Larvotto Towers 8, 9, 10",Hong Kong (CN),136.6,448,34,2011,concrete,residential
+471,,Metro City II Tower 1,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 10,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 11,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 2,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 3,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 4,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 5,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 6,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 7,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 8,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+471,,Metro City II Tower 9,Hong Kong (CN),136.5,448,44,1999,concrete,residential
+482,,Wan Chai Tower,Hong Kong (CN),136.5,448,32,1985,,office
+483,,Singga Commercial Centre,Hong Kong (CN),136,446,41,1982,,office
+484,,OLIV,Hong Kong (CN),135.6,445,25,2014,concrete,retail
+485,,Top Glory Tower,Hong Kong (CN),135.3,444,31,1993,,office
+486,,Pacific View 1-5,Hong Kong (CN),135,443,47,1990,concrete,residential
+487,,9 Des Voeux Road West,Hong Kong (CN),135,443,31,1994,,office
+488,,Tierra Verde 7,Hong Kong (CN),133.8,439,47,2000,concrete,residential
+488,,Tierra Verde 8,Hong Kong (CN),133.8,439,47,2000,concrete,residential
+490,,One Chinachem Central,Hong Kong (CN),133.6,438,27,2016,steel,office / retail
+491,,Regence Royale Tower II,Hong Kong (CN),133.2,437,39,2000,concrete,residential
+492,,Regence Royale Tower I,Hong Kong (CN),133,436,39,2000,concrete,residential
+493,,Lai Tin House,Hong Kong (CN),132.3,434,44,1975,concrete,residential
+493,,Tai Tin House,Hong Kong (CN),132.3,434,44,1975,concrete,residential
+495,,Grand Hyatt Hong Kong,Hong Kong (CN),132,433,46,1989,,hotel
+496,,Kingston Terrace Block 1,Hong Kong (CN),132,433,41,2002,concrete,residential
+496,,Kingston Terrace Block 2,Hong Kong (CN),132,433,41,2002,concrete,residential
+496,,Kingston Terrace Block 3,Hong Kong (CN),132,433,41,2002,concrete,residential
+496,,Kingston Terrace Block 4,Hong Kong (CN),132,433,41,2002,concrete,residential
+500,,Queen's Terrace 3,Hong Kong (CN),132,433,41,2002,concrete,residential
