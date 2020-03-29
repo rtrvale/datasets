@@ -6,24 +6,15 @@ The discography of the Memphis Jug Band, taken from a British Magazine, Blues-Li
 
 `isBlues` : (indicated by  `+` after the song name in the original text)
 
-`Vclm`    : male vocals
-
-`Vclf`    : female vocals
-
-`Hca`     : Harmonica
-
-`Kaz`     : Kazoo
-
-`Jug`     : Jug
-
-`Mnd`     : Mandolin
-
-`Bjo/Gts` : Banjo/guitars
-
-`Vln`     : Violin
-
-`Pno`     : Piano
-
-`Perc`    : Percussion
+`Vclm`    : male vocals<br/>
+`Vclf`    : female vocals<br/>
+`Hca`     : Harmonica<br/>
+`Kaz`     : Kazoo<br/>
+`Jug`     : Jug<br/>
+`Mnd`     : Mandolin<br/>
+`Bjo/Gts` : Banjo/guitars<br/>
+`Vln`     : Violin<br/>
+`Pno`     : Piano<br/>
+`Perc`    : Percussion<br/>
 
 Blank lines indicate a division between albums or recording sessions. The `XX`s in the table may be misprints.
