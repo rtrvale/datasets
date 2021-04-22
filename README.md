@@ -26,3 +26,9 @@ The discography of the Memphis Jug Band, taken from a British Magazine, Blues-Li
 Blank lines indicate a division between albums or recording sessions. The `XX`s in the table may be misprints.
 #### Usage
 Potentially various statistical clustering and visualization tasks. Predicting the `isBlues` variable.
+
+## mongolia.tsv
+#### Description
+Cattle in Mongolian regions. Uploaded by user Jan on Stackoverflow. The source is called Хөвсгөл аймгийн статистикийн эмхэтгэл 2018 and can be found via www.1212.mn/. The area data is on p.13 and the lifestock count on p.55 and p. 61. [Link.](https://history.stackexchange.com/questions/63632/why-was-the-northern-boundary-of-the-mongol-empire-set-where-it-was)
+#### Usage
+Comparing probability distributions using chi-squared, KL divergence and other methods. Dealing with tab-separated data.
