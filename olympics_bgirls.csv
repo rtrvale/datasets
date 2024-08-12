@@ -1,0 +1,649 @@
+judge,Overall,Technique,Vocabulary,Originality,Execution,Musicality,source,battle,round,stage,pos,neg
+A JPN KAZUHIRO,0.6,2.6,-0.8,-0.8,1.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+B GER FROST,10.8,6.8,1.8,1.2,1.0,,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+C USA MOY,8.4,2.4,1.4,,2.0,2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+D BRA MIGAZ,4.6,2.4,2.6,-2.0,2.6,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+E ESP JESS,-0.2,0.8,1.4,-0.4,-0.6,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+F CHN KOWLOON,7.0,1.6,1.6,1.2,1.6,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+G KOR VIRUS,6.0,1.6,0.8,1.4,1.2,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+H FRA DOM-K,11.2,3.8,4.4,2.6,3.2,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+I UKR INTACT,7.8,4.4,2.8,-0.8,3.2,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round1,heats,671,Sunny
+A JPN KAZUHIRO,-3.6,1.2,-0.8,-1.8,-0.8,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+B GER FROST,9.0,4.8,-1.6,1.8,2.4,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+C USA MOY,7.2,2.2,1.4,1.0,1.0,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+D BRA MIGAZ,6.4,3.2,3.4,-2.0,3.0,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+E ESP JESS,2.0,1.2,1.0,-1.4,1.0,0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+F CHN KOWLOON,5.0,1.6,1.6,-1.4,1.6,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+G KOR VIRUS,6.6,2.0,3.2,-1.2,1.2,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+H FRA DOM-K,12.6,4.8,3.4,-3.4,4.4,3.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+I UKR INTACT,12.4,5.2,3.4,1.2,3.4,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000100--,671-Sunny,Round2,heats,671,Sunny
+A JPN KAZUHIRO,1.0,-1.8,1.0,1.4,-1.4,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+B GER FROST,4.2,-3.6,3.0,3.4,-1.0,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+C USA MOY,-5.4,-2.0,-1.2,-0.8,-0.8,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+D BRA MIGAZ,4.0,-2.0,1.2,1.6,1.6,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+E ESP JESS,-0.6,-1.0,-0.8,1.4,-1.0,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+F CHN KOWLOON,-5.8,-2.0,-1.2,-1.4,-0.4,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+G KOR VIRUS,-2.4,-1.8,1.0,1.2,-1.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+H FRA DOM-K,-5.8,-3.8,-4.0,1.6,4.0,-3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+I UKR INTACT,-2.6,-2.6,-1.2,0.8,-1.2,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round1,heats,Vanessa,India
+A JPN KAZUHIRO,-1.4,-1.6,0.6,1.4,-3.0,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+B GER FROST,-12.8,-5.2,-1.2,2.0,-5.6,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+C USA MOY,-4.6,-1.0,-0.6,-1.2,-1.2,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+D BRA MIGAZ,-6.2,-2.0,-2.4,-1.0,-2.4,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+E ESP JESS,-1.6,-1.6,-1.2,1.4,-1.0,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+F CHN KOWLOON,-4.8,-1.2,-1.0,-1.6,-1.8,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+G KOR VIRUS,-3.2,-1.8,-0.6,0.8,-1.0,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+H FRA DOM-K,-4.4,-4.0,-3.2,3.6,2.8,-3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+I UKR INTACT,-12.8,-3.2,-2.4,-1.0,-5.2,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000200--,Vanessa-India,Round2,heats,Vanessa,India
+A JPN KAZUHIRO,3.6,3.2,1.2,-1.2,2.0,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+B GER FROST,1.8,6.8,-2.6,-2.4,2.6,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+C USA MOY,4.2,2.2,1.2,-0.4,1.6,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+D BRA MIGAZ,-6.8,1.4,-2.2,-2.2,-1.2,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+E ESP JESS,-2.4,1.6,-0.8,-1.0,-0.6,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+F CHN KOWLOON,4.0,1.2,-1.4,1.4,1.2,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+G KOR VIRUS,5.8,3.2,2.0,,2.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+H FRA DOM-K,-7.2,3.8,-3.0,-3.4,,-4.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+I UKR INTACT,4.8,4.4,2.8,-2.4,2.8,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round1,heats,671,Vanessa
+A JPN KAZUHIRO,-1.2,0.8,-0.6,-2.0,2.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+B GER FROST,4.8,3.4,1.8,-2.2,3.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+C USA MOY,5.2,3.0,2.6,-0.8,1.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+D BRA MIGAZ,6.8,3.6,3.2,-1.0,2.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+E ESP JESS,2.8,1.4,0.2,-0.8,2.2,-0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+F CHN KOWLOON,4.6,1.4,1.8,-1.8,1.4,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+G KOR VIRUS,7.0,3.4,1.0,0.8,0.6,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+H FRA DOM-K,5.0,4.4,2.8,-1.8,3.6,-4.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+I UKR INTACT,11.6,3.8,1.2,0.8,3.8,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000300--,671-Vanessa,Round2,heats,671,Vanessa
+A JPN KAZUHIRO,4.6,2.0,1.2,-1.8,2.2,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+B GER FROST,3.2,5.2,1.4,-3.4,2.0,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+C USA MOY,6.6,1.6,1.0,1.2,1.6,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+D BRA MIGAZ,3.4,1.0,2.6,-1.8,2.6,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+E ESP JESS,1.2,1.8,2.0,-0.6,-1.6,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+F CHN KOWLOON,6.6,1.6,1.2,1.2,1.2,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+G KOR VIRUS,1.2,2.0,-2.0,-2.0,2.0,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+H FRA DOM-K,2.8,-5.2,4.4,-3.0,5.2,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+I UKR INTACT,27.8,7.2,4.4,6.4,7.4,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round1,heats,India,Sunny
+A JPN KAZUHIRO,3.6,2.2,1.2,-1.0,1.8,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+B GER FROST,1.6,3.8,1.6,-2.6,1.8,-3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+C USA MOY,8.4,2.0,1.8,1.4,1.6,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+D BRA MIGAZ,4.6,1.6,2.0,1.2,1.8,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+E ESP JESS,2.6,1.8,1.0,-1.2,1.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+F CHN KOWLOON,8.4,2.2,1.4,1.8,1.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+G KOR VIRUS,5.6,1.8,2.2,-1.2,1.6,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+H FRA DOM-K,7.4,3.2,2.8,-3.4,2.8,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+I UKR INTACT,29.8,4.8,8.4,5.6,7.4,3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000400--,India-Sunny,Round2,heats,India,Sunny
+A JPN KAZUHIRO,1.8,-1.8,1.4,0.8,-0.8,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+B GER FROST,17.8,2.8,5.0,2.4,5.4,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+C USA MOY,7.0,1.0,1.2,1.4,2.2,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+D BRA MIGAZ,7.0,-1.0,2.4,2.8,1.0,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+E ESP JESS,4.2,-1.2,1.6,1.8,1.6,0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+F CHN KOWLOON,-4.2,-1.6,-1.4,1.2,-1.4,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+G KOR VIRUS,-0.4,-2.4,3.0,-2.4,1.8,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+H FRA DOM-K,8.2,-4.8,3.4,3.4,3.4,2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+I UKR INTACT,15.0,1.0,3.8,4.4,3.4,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round1,heats,India,671
+A JPN KAZUHIRO,-1.4,-1.6,-1.2,2.0,-2.0,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+B GER FROST,14.4,1.6,3.6,2.8,2.8,3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+C USA MOY,10.2,2.4,1.2,1.2,2.6,2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+D BRA MIGAZ,12.2,2.2,3.0,2.6,2.0,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+E ESP JESS,8.2,2.2,1.6,0.8,2.4,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+F CHN KOWLOON,7.8,1.2,1.6,1.6,1.8,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+G KOR VIRUS,0.4,-2.2,-1.2,1.8,1.2,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+H FRA DOM-K,9.4,-4.0,3.2,2.8,3.6,3.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+I UKR INTACT,23.0,2.6,6.4,5.6,3.2,5.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000500--,India-671,Round2,heats,India,671
+A JPN KAZUHIRO,-3.6,-2.4,1.6,-1.2,-2.4,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+B GER FROST,-1.4,-2.8,-1.8,2.6,-2.2,2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+C USA MOY,-1.2,-0.8,-0.6,0.8,-1.0,0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+D BRA MIGAZ,10.0,3.0,4.2,1.0,3.6,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+E ESP JESS,4.4,0.8,1.0,2.0,-1.0,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+F CHN KOWLOON,-4.2,-1.4,-1.4,1.0,-1.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+G KOR VIRUS,-2.8,-2.4,2.6,-2.6,-1.2,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+H FRA DOM-K,11.6,3.2,2.8,3.2,-1.6,4.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+I UKR INTACT,-3.0,-2.4,1.6,0.6,-1.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round1,heats,Vanessa,Sunny
+A JPN KAZUHIRO,-3.2,-1.8,1.2,-1.2,-0.4,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+B GER FROST,-4.8,-3.6,-4.2,3.2,-2.6,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+C USA MOY,-0.4,-0.8,,-0.4,0.2,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+D BRA MIGAZ,2.6,2.4,1.4,-1.4,2.2,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+E ESP JESS,-0.8,-1.0,-1.0,1.4,-1.2,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+F CHN KOWLOON,-4.2,-1.4,-1.4,1.0,-1.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+G KOR VIRUS,-10.6,-3.4,-3.0,-1.0,-2.0,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+H FRA DOM-K,7.8,-3.4,3.2,2.4,1.6,4.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+I UKR INTACT,-1.6,-1.8,1.2,1.4,-1.4,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpa-000600--,Vanessa-Sunny,Round2,heats,Vanessa,Sunny
+A JPN KAZUHIRO,5.8,2.6,1.6,-1.2,1.8,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+B GER FROST,7.2,-4.0,4.2,1.2,2.8,3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+C USA MOY,-0.8,1.4,-1.4,0.8,,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+D BRA MIGAZ,-11.8,-2.4,-3.0,-2.6,-2.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+E ESP JESS,0.8,-0.4,1.6,-1.2,1.4,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+F CHN KOWLOON,-4.2,-1.4,-1.2,1.2,-1.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+G KOR VIRUS,-0.6,1.8,-1.8,-1.6,2.0,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+H FRA DOM-K,-12.4,-3.0,3.0,-4.4,-4.6,-3.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+I UKR INTACT,8.4,1.4,3.4,1.6,3.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round1,heats,Nicka,Syssy
+A JPN KAZUHIRO,7.2,1.0,2.4,1.2,1.6,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+B GER FROST,-2.8,-3.6,3.2,-1.6,1.8,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+C USA MOY,9.0,1.2,2.4,3.0,0.8,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+D BRA MIGAZ,9.2,1.4,3.0,2.0,4.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+E ESP JESS,2.4,1.4,1.6,-0.8,1.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+F CHN KOWLOON,4.4,1.2,0.8,0.8,0.8,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+G KOR VIRUS,3.0,1.4,-1.0,,1.4,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+H FRA DOM-K,1.6,-3.4,2.0,-3.6,3.4,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+I UKR INTACT,-4.4,-0.6,1.6,-2.4,-1.4,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000100--,Nicka-Syssy,Round2,heats,Nicka,Syssy
+A JPN KAZUHIRO,9.2,2.2,1.4,1.0,2.6,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+B GER FROST,18.4,4.6,3.0,1.8,4.8,4.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+C USA MOY,10.4,2.8,2.6,1.8,1.2,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+D BRA MIGAZ,15.8,2.8,3.8,2.8,3.2,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+E ESP JESS,5.2,1.6,2.0,-1.0,1.4,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+F CHN KOWLOON,8.6,1.8,2.2,1.8,1.0,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+G KOR VIRUS,5.0,1.4,1.0,-0.8,1.6,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+H FRA DOM-K,23.0,3.6,3.4,3.8,3.4,8.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+I UKR INTACT,47.0,10.0,9.0,8.8,11.2,8.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round1,heats,Logistx,Raygun
+A JPN KAZUHIRO,6.6,2.4,-0.8,1.0,2.0,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+B GER FROST,15.0,4.6,1.8,1.6,3.4,3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+C USA MOY,11.8,2.4,3.2,1.6,2.2,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+D BRA MIGAZ,13.2,2.6,3.0,2.2,3.0,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+E ESP JESS,7.0,1.6,1.4,1.6,1.2,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+F CHN KOWLOON,7.4,1.8,1.4,1.4,1.2,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+G KOR VIRUS,6.8,2.2,1.2,-0.2,1.4,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+H FRA DOM-K,28.4,5.2,8.8,4.2,5.0,5.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+I UKR INTACT,28.8,5.6,3.6,5.6,5.6,8.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000200--,Logistx-Raygun,Round2,heats,Logistx,Raygun
+A JPN KAZUHIRO,-2.0,1.0,1.0,-1.4,-1.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+B GER FROST,3.2,2.8,1.6,1.4,1.8,-4.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+C USA MOY,-4.4,0.4,-2.0,-0.6,-1.6,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+D BRA MIGAZ,5.0,2.4,2.4,1.2,1.8,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+E ESP JESS,1.6,1.2,1.2,-0.8,0.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+F CHN KOWLOON,5.8,1.4,1.8,2.0,2.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+G KOR VIRUS,3.8,1.8,-0.8,1.2,1.0,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+H FRA DOM-K,-16.4,-6.8,3.8,-3.4,-5.6,-4.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+I UKR INTACT,-2.8,1.2,2.2,-2.6,-1.6,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round1,heats,Nicka,Logistx
+A JPN KAZUHIRO,7.6,1.0,2.0,1.2,2.4,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+B GER FROST,-5.8,2.2,2.2,-3.6,-3.6,-3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+C USA MOY,3.6,1.0,1.2,0.8,1.2,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+D BRA MIGAZ,8.0,2.6,2.2,2.8,1.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+E ESP JESS,4.4,2.8,1.2,-0.8,1.6,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+F CHN KOWLOON,7.2,1.8,1.8,1.2,1.2,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+G KOR VIRUS,9.0,2.2,1.6,2.0,1.8,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+H FRA DOM-K,5.0,4.2,-3.0,-3.4,3.0,4.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+I UKR INTACT,20.8,3.6,5.6,2.6,3.6,5.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000300--,Nicka-Logistx,Round2,heats,Nicka,Logistx
+A JPN KAZUHIRO,-7.4,-2.2,-0.6,-1.2,-1.2,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+B GER FROST,-8.4,-2.4,-2.2,-1.0,-1.4,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+C USA MOY,-7.8,-1.2,-1.8,-1.4,-2.0,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+D BRA MIGAZ,-13.6,-3.0,-3.2,-2.6,-3.0,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+E ESP JESS,-4.8,-1.4,-0.6,-0.8,-0.8,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+F CHN KOWLOON,-8.2,-1.8,-2.0,-1.2,-1.6,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+G KOR VIRUS,-11.2,-3.0,-2.6,-1.0,-2.8,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+H FRA DOM-K,-23.2,-5.6,-5.0,-3.0,-2.8,-6.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+I UKR INTACT,-63.2,-13.8,-11.4,-13.0,-13.8,-11.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round1,heats,Raygun,Syssy
+A JPN KAZUHIRO,-11.6,-3.0,-1.0,-2.0,-3.0,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+B GER FROST,-12.8,-5.0,-2.6,1.6,-3.6,-3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+C USA MOY,-9.4,-2.4,-2.2,-0.6,-1.8,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+D BRA MIGAZ,-15.0,-3.6,-3.0,-1.0,-5.4,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+E ESP JESS,-9.2,-2.8,-1.6,-0.8,-1.6,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+F CHN KOWLOON,-11.8,-2.6,-2.2,-2.2,-2.4,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+G KOR VIRUS,-13.4,-4.4,-1.8,-3.2,-2.0,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+H FRA DOM-K,-37.6,-9.2,-4.2,-3.4,-10.6,-10.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+I UKR INTACT,-91.6,-20.0,-17.8,-17.0,-18.6,-18.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000400--,Raygun-Syssy,Round2,heats,Raygun,Syssy
+A JPN KAZUHIRO,-7.8,-2.6,-1.0,-0.4,-2.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+B GER FROST,-8.2,-2.2,-2.2,2.2,-3.0,-3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+C USA MOY,-10.0,-2.4,-2.0,-1.8,-2.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+D BRA MIGAZ,-10.0,-2.0,-4.0,,-1.8,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+E ESP JESS,-6.6,-3.4,-2.2,1.0,-1.4,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+F CHN KOWLOON,-5.2,-0.8,-1.0,-1.0,-1.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+G KOR VIRUS,-8.6,-2.0,-1.6,-2.8,-1.6,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+H FRA DOM-K,-21.0,-5.4,-3.2,-2.8,-4.4,-5.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+I UKR INTACT,-85.2,-19.0,-16.8,-16.6,-18.4,-14.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round1,heats,Raygun,Nicka
+A JPN KAZUHIRO,-6.0,-1.8,-0.4,-1.2,-2.0,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+B GER FROST,-16.6,-5.2,-3.4,-1.2,-3.4,-3.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+C USA MOY,-10.8,-3.8,-2.0,-1.8,-1.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+D BRA MIGAZ,-12.4,-3.6,-2.6,-3.2,-1.6,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+E ESP JESS,-9.0,-2.4,-2.4,-1.2,-2.2,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+F CHN KOWLOON,-10.2,-3.0,-1.6,-2.0,-1.8,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+G KOR VIRUS,-7.8,-1.6,-1.4,-1.4,-1.8,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+H FRA DOM-K,-32.2,-8.0,-6.8,-1.8,-6.2,-9.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+I UKR INTACT,-83.6,-19.4,-16.8,-14.8,-18.4,-14.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000500--,Raygun-Nicka,Round2,heats,Raygun,Nicka
+A JPN KAZUHIRO,-2.0,-2.0,0.8,-0.4,1.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+B GER FROST,10.4,-2.8,4.4,1.8,1.8,5.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+C USA MOY,2.6,1.8,-1.0,,,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+D BRA MIGAZ,8.4,2.0,2.6,1.8,2.4,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+E ESP JESS,5.8,1.2,2.2,-0.8,1.4,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+F CHN KOWLOON,-8.2,-1.2,-1.4,-1.8,-1.8,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+G KOR VIRUS,4.8,1.4,-0.8,2.8,-1.8,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+H FRA DOM-K,-14.6,-3.0,2.4,-4.0,-5.2,-4.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+I UKR INTACT,15.2,3.2,3.8,1.4,5.0,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round1,heats,Logistx,Syssy
+A JPN KAZUHIRO,-2.0,-0.6,1.2,-1.8,-2.0,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+B GER FROST,3.4,-2.2,3.0,-1.8,1.0,3.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+C USA MOY,4.0,1.6,,1.2,0.8,0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+D BRA MIGAZ,-6.2,-2.8,-1.8,-1.6,-2.0,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+E ESP JESS,-0.8,0.8,-1.0,-1.0,1.2,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+F CHN KOWLOON,-8.2,-1.4,-1.8,-1.8,-1.6,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+G KOR VIRUS,-7.6,-2.2,-1.0,-1.2,-1.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+H FRA DOM-K,1.0,-3.8,3.6,-3.4,2.6,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+I UKR INTACT,11.4,2.2,4.0,1.2,3.0,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpb-000600--,Logistx-Syssy,Round2,heats,Logistx,Syssy
+A JPN KAZUHIRO,3.8,1.8,1.6,-0.4,2.0,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+B GER FROST,11.0,1.8,1.6,3.8,2.8,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+C USA MOY,5.4,3.0,1.0,1.6,1.6,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+D BRA MIGAZ,8.0,2.4,3.8,1.8,1.8,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+E ESP JESS,1.2,1.2,1.0,-0.6,0.6,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+F CHN KOWLOON,-3.8,-1.6,-1.6,1.6,-1.0,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+G KOR VIRUS,1.8,-1.8,2.2,1.8,-1.8,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+H FRA DOM-K,4.4,3.0,3.8,-3.0,5.4,-4.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+I UKR INTACT,3.6,1.8,2.6,-1.0,1.6,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round1,heats,Ami,Anti
+A JPN KAZUHIRO,2.4,1.8,-0.8,-0.8,1.4,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+B GER FROST,4.6,-1.0,2.8,-1.6,3.2,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+C USA MOY,6.4,2.6,2.0,1.6,1.8,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+D BRA MIGAZ,7.4,2.4,2.4,1.8,2.6,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+E ESP JESS,5.4,1.0,1.8,0.8,0.8,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+F CHN KOWLOON,3.2,0.8,-0.8,1.4,1.0,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+G KOR VIRUS,1.4,1.6,-1.0,-0.8,1.0,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+H FRA DOM-K,10.4,3.6,3.6,-3.0,3.0,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+I UKR INTACT,13.4,4.0,1.6,1.0,3.4,3.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000100--,Ami-Anti,Round2,heats,Ami,Anti
+A JPN KAZUHIRO,-4.0,-2.6,-1.0,-0.8,-0.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+B GER FROST,-3.4,-2.6,-2.2,1.6,-2.4,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+C USA MOY,-3.2,-0.4,-1.4,-0.8,-1.2,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+D BRA MIGAZ,-12.8,-2.4,-2.6,-3.0,-2.2,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+E ESP JESS,-4.0,-1.4,-1.0,-1.4,-0.8,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+F CHN KOWLOON,-4.0,-1.4,-1.4,-1.2,-1.2,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+G KOR VIRUS,-3.4,-1.6,-1.0,-0.6,-1.0,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+H FRA DOM-K,-1.4,-5.2,,4.6,-4.4,3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+I UKR INTACT,-1.0,-1.0,-1.6,1.0,-1.0,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round1,heats,Elmamouny,Ying Zi
+A JPN KAZUHIRO,-9.8,-1.8,-2.6,-1.2,-3.2,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+B GER FROST,-1.2,-4.2,1.4,1.2,-2.2,2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+C USA MOY,-5.6,-1.0,-1.0,-1.4,-2.0,-0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+D BRA MIGAZ,-13.2,-2.6,-2.4,-3.6,-2.2,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+E ESP JESS,-4.6,-0.8,-1.2,-1.0,-0.6,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+F CHN KOWLOON,-8.4,-1.8,-2.2,-1.4,-1.8,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+G KOR VIRUS,-11.2,-3.6,-2.8,-0.6,-2.8,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+H FRA DOM-K,-6.4,-5.0,-4.4,3.4,-4.8,4.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+I UKR INTACT,-18.0,-2.8,-5.6,-3.8,-4.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000200--,Elmamouny-Ying Zi,Round2,heats,Elmamouny,Ying Zi
+A JPN KAZUHIRO,8.8,2.4,1.8,0.4,2.6,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+B GER FROST,9.6,5.0,1.2,-3.0,4.4,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+C USA MOY,9.2,2.6,1.6,1.6,1.6,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+D BRA MIGAZ,8.6,2.2,3.4,-2.2,4.0,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+E ESP JESS,4.8,2.4,1.6,-1.0,1.2,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+F CHN KOWLOON,8.4,1.6,2.2,1.8,1.4,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+G KOR VIRUS,3.6,1.8,0.8,,0.4,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+H FRA DOM-K,19.0,5.6,4.2,-2.6,6.2,5.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+I UKR INTACT,36.0,7.8,7.8,5.2,9.4,5.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round1,heats,Ami,Elmamouny
+A JPN KAZUHIRO,9.0,2.2,1.0,1.2,3.2,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+B GER FROST,2.0,3.6,1.8,-2.8,1.8,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+C USA MOY,10.4,2.4,1.0,3.0,2.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+D BRA MIGAZ,9.6,3.6,3.2,-1.2,2.6,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+E ESP JESS,6.0,3.4,1.6,-0.8,1.8,,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+F CHN KOWLOON,8.4,1.4,1.8,1.8,1.6,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+G KOR VIRUS,6.6,2.2,2.0,-0.4,1.6,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+H FRA DOM-K,18.4,5.8,6.6,-3.6,4.8,4.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+I UKR INTACT,42.0,10.2,7.8,5.0,9.8,9.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000300--,Ami-Elmamouny,Round2,heats,Ami,Elmamouny
+A JPN KAZUHIRO,-1.0,-0.8,1.8,1.0,-1.8,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+B GER FROST,4.4,7.0,5.8,-3.0,-2.0,-3.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+C USA MOY,5.8,1.2,1.2,,2.0,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+D BRA MIGAZ,14.4,3.8,2.8,3.4,2.4,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+E ESP JESS,5.0,1.6,1.8,-0.2,2.6,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+F CHN KOWLOON,7.0,1.6,1.2,1.2,1.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+G KOR VIRUS,10.2,2.4,2.0,2.2,1.8,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+H FRA DOM-K,20.2,4.8,2.8,3.6,3.6,5.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+I UKR INTACT,19.4,1.4,2.2,5.6,3.4,6.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round1,heats,Ying Zi,Anti
+A JPN KAZUHIRO,-3.4,-1.6,1.0,1.0,-2.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+B GER FROST,10.6,2.8,2.0,2.0,1.4,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+C USA MOY,10.8,2.0,1.6,1.8,3.0,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+D BRA MIGAZ,9.6,2.6,1.2,2.0,1.6,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+E ESP JESS,7.6,2.2,1.2,1.2,1.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+F CHN KOWLOON,5.4,-1.4,1.6,1.8,1.8,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+G KOR VIRUS,6.4,2.2,1.8,-1.2,1.4,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+H FRA DOM-K,10.6,3.4,-4.4,3.8,4.2,3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+I UKR INTACT,15.8,0.8,1.2,5.6,3.2,5.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000400--,Ying Zi-Anti,Round2,heats,Ying Zi,Anti
+A JPN KAZUHIRO,-12.6,-2.0,-3.0,-1.4,-3.4,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+B GER FROST,-6.0,-2.8,-3.4,1.2,-3.4,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+C USA MOY,-2.8,-1.0,-1.0,-0.6,-1.2,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+D BRA MIGAZ,-9.6,-2.6,-2.8,-2.6,-2.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+E ESP JESS,-1.4,-1.4,-1.4,1.4,-1.4,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+F CHN KOWLOON,-7.4,-1.6,-1.4,-1.2,-1.6,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+G KOR VIRUS,-7.4,-2.6,-0.6,-2.0,-1.0,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+H FRA DOM-K,1.2,-3.4,-2.8,4.2,-2.2,5.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+I UKR INTACT,-16.4,-5.2,-2.8,-1.6,-4.8,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round1,heats,Ying Zi,Ami
+A JPN KAZUHIRO,-9.8,-2.6,-1.4,-1.6,-3.0,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+B GER FROST,-8.0,-4.0,-3.8,0.8,-4.2,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+C USA MOY,-5.0,-2.4,-0.6,-2.0,-1.6,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+D BRA MIGAZ,-7.0,-2.6,-2.4,1.4,-2.4,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+E ESP JESS,-1.0,-1.6,-1.0,1.0,-1.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+F CHN KOWLOON,-4.6,-1.6,-1.8,1.2,-1.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+G KOR VIRUS,-5.2,-1.8,-1.0,-1.6,-1.6,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+H FRA DOM-K,-14.0,-6.6,-3.4,3.2,-4.4,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+I UKR INTACT,-2.8,-2.4,-1.8,0.8,-1.0,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000500--,Ying Zi-Ami,Round2,heats,Ying Zi,Ami
+A JPN KAZUHIRO,-10.6,-1.2,-1.4,-1.4,-3.4,-3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+B GER FROST,-3.0,-3.0,-1.4,1.4,-2.0,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+C USA MOY,-5.8,-1.2,-1.0,-1.2,-1.4,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+D BRA MIGAZ,-12.4,-3.4,-1.6,-3.2,-2.2,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+E ESP JESS,-6.6,-1.8,-1.4,-0.8,-1.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+F CHN KOWLOON,-7.0,-2.6,-1.6,-2.2,-1.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+G KOR VIRUS,-5.4,-2.0,-1.2,-1.6,-1.2,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+H FRA DOM-K,-13.2,-4.0,-3.8,4.0,-4.0,-5.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+I UKR INTACT,-16.8,-5.8,-3.6,-1.2,-4.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round1,heats,Elmamouny,Anti
+A JPN KAZUHIRO,5.8,-1.2,1.8,2.2,1.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+B GER FROST,-1.4,-3.8,2.2,1.8,-1.6,,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+C USA MOY,2.8,-0.6,1.4,-0.6,1.4,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+D BRA MIGAZ,-11.0,-3.4,-3.4,1.2,-4.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+E ESP JESS,-5.2,-2.2,-1.4,1.2,-1.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+F CHN KOWLOON,-7.4,-1.2,-1.6,-1.4,-1.6,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+G KOR VIRUS,-1.2,-2.4,-1.6,1.8,1.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+H FRA DOM-K,-16.6,-6.8,-4.0,3.2,-3.6,-5.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+I UKR INTACT,-9.2,-4.6,-2.2,1.6,-3.4,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpc-000600--,Elmamouny-Anti,Round2,heats,Elmamouny,Anti
+A JPN KAZUHIRO,4.0,1.2,2.6,1.2,0.8,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+B GER FROST,2.4,4.2,2.2,-2.2,1.2,-3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+C USA MOY,-3.4,-0.2,-1.0,1.6,-1.2,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+D BRA MIGAZ,7.2,3.0,1.6,2.2,2.4,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+E ESP JESS,3.4,1.2,1.2,-0.8,1.0,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+F CHN KOWLOON,6.8,0.8,1.0,1.6,1.8,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+G KOR VIRUS,3.2,0.8,2.0,-1.8,1.4,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+H FRA DOM-K,2.0,,-2.4,3.8,3.6,-3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+I UKR INTACT,-6.0,-1.0,1.0,-1.6,-0.8,-3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round1,heats,Ayumi,Stefani
+A JPN KAZUHIRO,1.2,-1.2,2.6,1.6,-0.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+B GER FROST,-3.6,1.4,1.4,1.4,-4.0,-3.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+C USA MOY,-3.2,0.8,-1.8,-0.6,-0.6,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+D BRA MIGAZ,-7.4,-2.0,-2.4,-2.4,1.6,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+E ESP JESS,-0.6,1.2,-0.6,-1.6,1.2,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+F CHN KOWLOON,4.2,1.6,1.2,1.6,-1.4,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+G KOR VIRUS,3.6,1.4,1.0,1.0,1.0,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+H FRA DOM-K,-6.6,-3.8,-3.0,3.4,3.0,-6.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+I UKR INTACT,-4.4,-0.8,2.2,-1.4,-1.8,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000100--,Ayumi-Stefani,Round2,heats,Ayumi,Stefani
+A JPN KAZUHIRO,8.6,1.4,2.0,1.4,2.4,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+B GER FROST,9.2,1.8,2.0,1.8,1.2,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+C USA MOY,7.6,1.4,0.8,1.4,0.8,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+D BRA MIGAZ,-5.8,-3.2,-1.2,-1.6,1.8,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+E ESP JESS,-0.4,-1.0,0.4,0.4,-1.0,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+F CHN KOWLOON,3.2,-1.2,1.0,1.4,1.2,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+G KOR VIRUS,5.2,1.8,-0.8,2.0,0.6,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+H FRA DOM-K,1.6,-5.6,4.6,3.8,-4.6,3.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+I UKR INTACT,9.0,3.2,1.4,1.0,1.2,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round1,heats,Kate,Carlota
+A JPN KAZUHIRO,3.8,-1.0,1.6,1.0,1.4,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+B GER FROST,1.4,-1.4,-2.0,1.8,1.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+C USA MOY,7.4,1.4,0.8,1.6,2.0,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+D BRA MIGAZ,8.0,2.0,3.2,1.8,2.8,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+E ESP JESS,2.0,0.8,-0.6,1.0,-0.4,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+F CHN KOWLOON,-0.8,-1.4,0.8,1.2,-1.6,0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+G KOR VIRUS,7.8,1.8,1.0,1.6,1.6,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+H FRA DOM-K,7.2,4.0,3.8,-2.6,4.6,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+I UKR INTACT,14.6,4.2,3.4,1.0,3.8,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000200--,Kate-Carlota,Round2,heats,Kate,Carlota
+A JPN KAZUHIRO,-0.6,-1.2,2.0,1.4,-0.8,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+B GER FROST,-2.2,4.2,-3.6,1.8,-2.2,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+C USA MOY,-3.2,-2.2,0.4,1.4,-1.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+D BRA MIGAZ,-11.0,-2.2,-2.6,-2.0,-2.8,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+E ESP JESS,-2.4,1.2,0.6,-1.2,-1.6,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+F CHN KOWLOON,-3.2,-1.4,1.6,-1.0,-1.0,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+G KOR VIRUS,1.4,1.4,-1.2,0.8,-0.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+H FRA DOM-K,-15.6,-5.6,-4.2,4.0,-4.8,-5.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+I UKR INTACT,-11.0,-3.0,1.0,-1.8,-2.6,-4.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round1,heats,Ayumi,Kate
+A JPN KAZUHIRO,1.2,-1.2,1.8,1.4,1.0,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+B GER FROST,5.2,1.8,2.0,2.0,2.0,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+C USA MOY,-3.4,-0.2,-0.6,0.4,-1.4,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+D BRA MIGAZ,8.4,1.8,3.2,3.6,1.8,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+E ESP JESS,-2.6,0.8,-1.2,-1.6,1.0,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+F CHN KOWLOON,6.2,1.0,0.8,1.4,1.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+G KOR VIRUS,5.0,1.6,1.6,0.2,1.0,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+H FRA DOM-K,-14.4,-4.6,-3.4,3.6,-3.8,-6.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+I UKR INTACT,-13.6,-1.6,-1.4,-2.4,-4.6,-3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000300--,Ayumi-Kate,Round2,heats,Ayumi,Kate
+A JPN KAZUHIRO,-2.6,-0.8,0.8,0.8,-2.0,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+B GER FROST,10.2,2.4,2.0,1.8,2.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+C USA MOY,-5.8,-2.4,-0.4,-1.0,-1.4,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+D BRA MIGAZ,8.8,1.6,3.2,3.0,-1.2,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+E ESP JESS,1.4,-1.0,2.2,2.2,-0.8,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+F CHN KOWLOON,-7.4,-1.6,-1.6,-1.2,-1.6,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+G KOR VIRUS,-8.0,-3.0,-1.6,-1.4,-1.2,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+H FRA DOM-K,9.6,3.4,3.4,-4.2,4.4,2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+I UKR INTACT,-7.2,-1.4,-2.8,,-1.2,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round1,heats,Carlota,Stefani
+A JPN KAZUHIRO,-3.4,-1.2,-1.0,1.6,-1.4,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+B GER FROST,-7.2,-2.6,-2.0,2.0,-2.2,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+C USA MOY,-2.6,-1.4,-0.8,1.0,-0.4,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+D BRA MIGAZ,-3.8,-2.0,-1.2,-1.2,-1.0,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+E ESP JESS,-2.2,-1.4,1.2,0.6,-1.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+F CHN KOWLOON,3.0,1.8,-1.4,0.8,1.0,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+G KOR VIRUS,-8.6,-2.0,-1.2,-2.6,-1.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+H FRA DOM-K,3.0,-3.0,3.4,2.0,-3.4,4.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+I UKR INTACT,-12.0,-2.0,-3.8,-0.6,-3.4,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000400--,Carlota-Stefani,Round2,heats,Carlota,Stefani
+A JPN KAZUHIRO,-3.6,1.0,-2.2,-2.6,0.8,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+B GER FROST,-6.6,-1.0,-3.6,-2.2,-2.4,2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+C USA MOY,-1.8,-0.2,-1.0,-2.2,-0.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+D BRA MIGAZ,6.6,1.8,2.4,0.4,2.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+E ESP JESS,-4.8,-0.8,-1.4,-0.8,-0.8,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+F CHN KOWLOON,-5.2,0.8,-2.0,-1.8,-1.2,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+G KOR VIRUS,-3.4,-0.4,-1.2,-0.6,-0.2,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+H FRA DOM-K,-1.4,5.0,-4.4,-3.2,-4.2,5.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+I UKR INTACT,-5.4,-1.8,-2.8,-1.0,-1.0,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round1,heats,Carlota,Ayumi
+A JPN KAZUHIRO,-7.6,-0.4,-2.0,-2.6,-1.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+B GER FROST,-3.2,-3.2,-1.8,-1.6,1.8,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+C USA MOY,2.6,0.4,0.4,-1.2,1.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+D BRA MIGAZ,-8.4,-2.2,-3.4,-2.4,-2.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+E ESP JESS,1.0,2.8,-0.6,-1.2,0.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+F CHN KOWLOON,-4.2,-1.0,-1.2,-1.2,0.6,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+G KOR VIRUS,-5.6,0.2,-0.8,-2.8,-1.4,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+H FRA DOM-K,-1.2,4.0,-3.4,-2.4,2.8,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+I UKR INTACT,-3.8,-1.8,-1.4,-2.4,0.8,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000500--,Carlota-Ayumi,Round2,heats,Carlota,Ayumi
+A JPN KAZUHIRO,-8.6,-2.6,-0.4,-1.4,-3.0,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+B GER FROST,7.0,2.4,2.0,2.0,2.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+C USA MOY,-1.6,0.2,-0.6,0.8,-0.8,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+D BRA MIGAZ,7.8,2.2,3.2,1.8,1.4,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+E ESP JESS,2.8,1.0,0.8,-1.0,2.2,-0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+F CHN KOWLOON,-3.0,-1.2,-1.0,-0.6,-0.8,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+G KOR VIRUS,-7.8,-2.8,-1.0,-2.8,-1.2,,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+H FRA DOM-K,-10.4,-2.2,-3.2,2.8,-3.0,-4.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+I UKR INTACT,-8.6,-2.6,-1.0,-1.2,-2.8,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round1,heats,Kate,Stefani
+A JPN KAZUHIRO,-2.8,-1.6,1.0,1.4,-1.0,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+B GER FROST,-2.8,-3.2,-2.0,1.8,2.0,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+C USA MOY,4.0,1.6,2.0,1.0,1.4,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+D BRA MIGAZ,8.2,2.4,3.2,2.0,2.8,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+E ESP JESS,0.2,1.6,1.0,-1.2,,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+F CHN KOWLOON,4.4,-1.2,1.2,1.4,1.4,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+G KOR VIRUS,-7.6,-2.0,-2.2,-1.2,-1.4,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+H FRA DOM-K,7.4,-3.0,2.4,2.6,1.8,3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+I UKR INTACT,-9.4,-1.0,-3.0,-0.6,-2.8,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/gpd-000600--,Kate-Stefani,Round2,heats,Kate,Stefani
+A JPN KAZUHIRO,-4.4,1.0,-1.2,-0.8,-1.6,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+B GER FROST,-6.2,3.6,-2.8,-2.0,-6.0,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+C USA MOY,-2.0,-0.6,-0.8,-0.8,-1.0,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+D BRA MIGAZ,-5.8,-2.2,-2.2,-1.8,-1.0,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+E ESP JESS,-1.6,-1.2,-0.6,0.6,-1.4,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+F CHN KOWLOON,-4.2,1.4,-1.6,-1.0,-1.4,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+G KOR VIRUS,2.6,-1.6,1.8,-1.4,1.4,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+H FRA DOM-K,-0.4,3.6,-2.8,-2.2,-3.0,4.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+I UKR INTACT,-13.8,-3.2,-2.4,-1.0,-4.8,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round1,quarterfinals,Syssy,Ami
+A JPN KAZUHIRO,-6.0,-1.4,-1.6,-0.6,-1.6,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+B GER FROST,-9.6,2.0,-7.0,1.8,-4.6,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+C USA MOY,-6.8,-2.0,-1.6,-1.8,-1.0,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+D BRA MIGAZ,-12.4,-2.4,-2.6,-2.4,-3.6,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+E ESP JESS,-3.8,-1.2,-1.4,0.6,-1.8,,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+F CHN KOWLOON,-5.0,1.6,-1.8,-2.2,-1.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+G KOR VIRUS,-8.4,-1.8,-2.0,-0.8,-2.8,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+H FRA DOM-K,-6.8,-3.2,-2.4,4.2,-3.0,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+I UKR INTACT,-19.0,-4.8,-3.8,-1.4,-5.2,-3.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round2,quarterfinals,Syssy,Ami
+A JPN KAZUHIRO,-4.8,-1.4,-1.4,0.6,-1.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+B GER FROST,-7.8,-1.6,-3.4,1.8,-2.6,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+C USA MOY,-4.6,-1.2,0.6,-1.4,-1.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+D BRA MIGAZ,-5.8,-1.2,,-1.4,-1.2,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+E ESP JESS,-3.2,-1.0,-0.8,0.8,-1.4,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+F CHN KOWLOON,-5.4,1.0,-2.0,-1.4,-1.4,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+G KOR VIRUS,-8.6,-2.0,-1.2,-1.4,-2.2,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+H FRA DOM-K,0.8,-2.0,2.8,,-3.2,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+I UKR INTACT,-14.6,-5.6,-1.6,-1.0,-4.8,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000100--,Syssy-Ami,Round3,quarterfinals,Syssy,Ami
+A JPN KAZUHIRO,5.4,-0.8,2.2,1.2,1.2,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+B GER FROST,-1.2,-3.8,3.4,2.8,-2.0,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+C USA MOY,7.6,1.4,1.4,1.4,1.6,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+D BRA MIGAZ,9.2,3.0,2.6,1.8,3.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+E ESP JESS,-1.2,-0.8,-0.6,0.4,0.8,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+F CHN KOWLOON,3.8,-1.6,1.0,1.6,1.2,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+G KOR VIRUS,-1.2,-2.8,2.8,2.6,-2.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+H FRA DOM-K,0.6,-3.2,2.4,2.4,4.0,-5.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+I UKR INTACT,-3.4,-2.2,1.6,0.8,-2.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round1,quarterfinals,Ayumi,India
+A JPN KAZUHIRO,3.0,-2.0,1.4,1.6,1.0,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+B GER FROST,-2.4,-5.0,3.2,5.2,-2.2,-3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+C USA MOY,6.2,0.8,1.4,1.2,1.4,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+D BRA MIGAZ,-6.4,-3.4,-2.8,1.2,-2.8,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+E ESP JESS,-1.8,-1.4,-1.8,0.8,0.8,-0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+F CHN KOWLOON,4.8,-1.6,1.0,1.8,1.8,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+G KOR VIRUS,-0.2,-3.6,1.8,1.6,0.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+H FRA DOM-K,-4.2,-6.0,3.0,,2.4,-3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+I UKR INTACT,-8.2,-2.4,-3.2,0.8,-2.6,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round2,quarterfinals,Ayumi,India
+A JPN KAZUHIRO,-3.2,-2.0,1.4,1.2,-1.6,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+B GER FROST,-1.4,-4.8,3.2,3.4,-1.6,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+C USA MOY,0.6,-0.4,1.2,1.8,-1.0,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+D BRA MIGAZ,-6.4,-1.4,1.4,-1.6,-3.0,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+E ESP JESS,-3.6,-0.8,-1.6,-0.8,0.6,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+F CHN KOWLOON,-5.6,-2.0,1.6,-1.6,-1.6,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+G KOR VIRUS,8.6,0.8,1.8,3.0,1.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+H FRA DOM-K,-6.2,-3.8,2.6,3.0,-3.6,-4.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+I UKR INTACT,-6.4,-2.2,-0.6,0.8,-1.6,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000200--,Ayumi-India,Round3,quarterfinals,Ayumi,India
+A JPN KAZUHIRO,2.8,1.4,1.6,-1.2,2.0,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+B GER FROST,-2.8,5.2,-3.2,-3.0,1.2,-3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+C USA MOY,3.0,2.0,1.8,-1.6,2.4,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+D BRA MIGAZ,-6.2,-2.0,-2.4,-2.8,2.6,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+E ESP JESS,0.6,1.6,-1.0,-0.8,0.8,,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+F CHN KOWLOON,3.6,1.8,-1.4,-1.0,1.8,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+G KOR VIRUS,-2.2,3.8,-2.8,-2.4,-0.8,,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+H FRA DOM-K,5.8,5.2,-2.4,-2.8,3.2,2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+I UKR INTACT,1.4,1.2,1.4,-1.0,1.6,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round1,quarterfinals,671,Kate
+A JPN KAZUHIRO,1.6,1.0,,,0.6,,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+B GER FROST,3.8,6.2,2.4,-2.6,2.2,-4.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+C USA MOY,-2.6,-0.8,1.2,-1.8,,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+D BRA MIGAZ,6.8,4.0,2.4,-1.8,4.2,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+E ESP JESS,-1.0,1.4,-1.4,-1.2,1.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+F CHN KOWLOON,5.4,1.6,1.4,1.6,1.8,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+G KOR VIRUS,-2.2,1.8,-1.0,-1.2,-0.8,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+H FRA DOM-K,1.6,4.2,-2.2,-1.4,3.4,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+I UKR INTACT,-3.0,0.6,1.0,-1.2,-0.8,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round2,quarterfinals,671,Kate
+A JPN KAZUHIRO,2.0,1.0,1.4,-0.6,1.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+B GER FROST,2.6,3.0,2.4,-1.8,2.2,-3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+C USA MOY,4.6,2.0,2.0,-1.0,3.4,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+D BRA MIGAZ,8.8,2.8,2.2,2.2,3.8,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+E ESP JESS,7.0,1.6,1.4,1.2,1.8,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+F CHN KOWLOON,5.8,1.6,1.4,1.8,1.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+G KOR VIRUS,0.4,3.2,-1.8,-1.2,1.2,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+H FRA DOM-K,5.6,4.6,-3.0,-2.4,4.0,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+I UKR INTACT,11.6,3.8,3.0,0.8,3.2,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000300--,671-Kate,Round3,quarterfinals,671,Kate
+A JPN KAZUHIRO,-0.8,-1.0,-0.8,1.4,-1.2,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+B GER FROST,-3.6,-1.2,2.4,1.8,-2.4,-4.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+C USA MOY,-10.6,-2.6,-1.8,-2.0,-1.8,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+D BRA MIGAZ,-10.8,-2.0,-2.2,-2.0,-2.2,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+E ESP JESS,-0.4,-1.8,-1.0,1.6,1.2,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+F CHN KOWLOON,-6.6,-1.2,-1.0,-1.2,-1.8,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+G KOR VIRUS,-11.2,-2.4,-2.6,-2.0,-2.0,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+H FRA DOM-K,-6.0,-4.0,-2.8,1.6,-4.0,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+I UKR INTACT,-15.0,-4.0,-3.8,-2.4,-4.0,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round1,quarterfinals,Ying Zi,Nicka
+A JPN KAZUHIRO,-3.4,-1.6,0.8,1.2,-1.6,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+B GER FROST,-1.6,1.2,1.6,2.0,-3.2,-3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+C USA MOY,-8.8,-2.8,-1.0,-1.2,-2.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+D BRA MIGAZ,-13.8,-2.4,-3.4,-2.4,-3.0,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+E ESP JESS,1.2,0.6,-1.2,1.0,1.2,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+F CHN KOWLOON,-7.2,-1.0,-1.6,-1.6,-1.6,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+G KOR VIRUS,-6.8,-2.8,-2.2,0.4,-1.2,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+H FRA DOM-K,-6.6,-4.4,-2.6,1.8,-4.2,2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+I UKR INTACT,-17.4,-3.8,-5.6,-2.6,-4.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round2,quarterfinals,Ying Zi,Nicka
+A JPN KAZUHIRO,-8.4,-1.6,-1.6,-1.0,-2.6,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+B GER FROST,-10.6,-2.2,-2.2,-2.0,-1.8,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+C USA MOY,-10.8,-2.8,-1.4,-2.8,-2.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+D BRA MIGAZ,-7.0,-3.2,1.4,-2.2,-2.4,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+E ESP JESS,-3.2,-0.6,-1.8,0.6,-0.8,-0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+F CHN KOWLOON,-7.2,-1.4,-1.4,-1.6,-1.6,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+G KOR VIRUS,-8.0,-2.0,-1.8,-1.6,-1.8,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+H FRA DOM-K,-13.4,-6.0,-4.2,2.6,-4.0,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+I UKR INTACT,-23.2,-5.8,-6.4,-2.4,-5.4,-3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/qfnl000400--,Ying Zi-Nicka,Round3,quarterfinals,Ying Zi,Nicka
+A JPN KAZUHIRO,2.4,-0.4,2.0,-0.6,-0.8,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+B GER FROST,-3.8,-5.4,2.8,1.2,-4.4,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+C USA MOY,-3.2,0.4,-1.2,0.8,-1.0,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+D BRA MIGAZ,5.6,2.4,2.6,1.2,1.2,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+E ESP JESS,-3.8,-1.0,-0.8,-0.6,-1.2,-0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+F CHN KOWLOON,-5.0,-1.4,-2.0,1.0,-1.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+G KOR VIRUS,0.6,-2.8,2.6,2.0,-1.8,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+H FRA DOM-K,-3.6,-2.6,3.0,1.8,-3.6,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+I UKR INTACT,-11.8,-1.2,-3.2,-3.0,-3.6,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round1,semifinals,Ami,India
+A JPN KAZUHIRO,5.4,1.6,1.4,-0.6,1.2,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+B GER FROST,1.0,-3.2,3.6,-2.6,1.8,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+C USA MOY,-2.0,,-1.4,-0.8,-1.2,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+D BRA MIGAZ,-12.4,-3.0,-2.2,-3.4,-2.4,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+E ESP JESS,2.6,0.6,-0.6,0.6,1.8,0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+F CHN KOWLOON,2.8,1.4,-1.2,0.6,1.2,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+G KOR VIRUS,7.0,-1.6,2.4,3.0,1.8,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+H FRA DOM-K,-1.4,2.6,-3.2,-1.6,2.8,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+I UKR INTACT,1.4,1.6,-1.8,-1.0,1.6,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round2,semifinals,Ami,India
+A JPN KAZUHIRO,5.8,0.6,1.6,0.8,1.2,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+B GER FROST,2.2,-4.6,2.2,1.4,1.4,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+C USA MOY,5.8,1.4,0.6,1.2,1.0,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+D BRA MIGAZ,9.2,1.0,2.2,1.8,2.4,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+E ESP JESS,-0.4,-1.6,-1.6,0.8,0.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+F CHN KOWLOON,3.2,-1.6,1.0,1.2,1.2,1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+G KOR VIRUS,14.0,1.6,2.8,2.8,3.0,3.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+H FRA DOM-K,15.4,3.6,2.0,4.4,3.2,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+I UKR INTACT,3.2,2.2,-1.0,-0.6,1.6,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000100--,Ami-India,Round3,semifinals,Ami,India
+A JPN KAZUHIRO,-3.2,-1.2,1.2,-0.6,-1.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+B GER FROST,-3.0,1.2,2.4,-1.8,-2.4,-2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+C USA MOY,-1.2,1.4,0.6,-1.6,-2.0,0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+D BRA MIGAZ,-17.4,-3.2,-4.4,-3.4,-3.4,-3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+E ESP JESS,-2.4,0.8,-1.4,-0.6,-1.2,,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+F CHN KOWLOON,3.6,1.4,1.0,1.2,1.4,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+G KOR VIRUS,-7.8,0.4,-2.4,-2.6,-0.6,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+H FRA DOM-K,4.4,4.4,-3.0,2.4,3.2,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+I UKR INTACT,-14.2,-2.2,-2.8,-3.0,-4.0,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round1,semifinals,671,Nicka
+A JPN KAZUHIRO,4.2,0.8,,1.6,1.0,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+B GER FROST,3.0,3.6,2.2,-2.4,1.6,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+C USA MOY,4.8,1.0,0.4,2.2,0.4,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+D BRA MIGAZ,-11.2,-1.8,-3.6,-3.2,-1.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+E ESP JESS,-3.2,1.0,-1.4,-0.8,-1.0,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+F CHN KOWLOON,5.0,1.6,,1.2,1.0,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+G KOR VIRUS,-4.0,0.8,-1.0,-1.6,-1.0,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+H FRA DOM-K,3.4,3.0,-2.8,2.8,3.0,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+I UKR INTACT,-10.0,-1.2,-3.0,-1.0,-3.4,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round2,semifinals,671,Nicka
+A JPN KAZUHIRO,-3.0,1.0,-1.4,1.0,-2.0,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+B GER FROST,-6.6,2.6,-2.4,-2.2,-1.8,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+C USA MOY,-4.4,-0.4,-1.4,-1.6,-1.8,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+D BRA MIGAZ,-15.8,-4.2,-4.0,-4.0,-2.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+E ESP JESS,-1.2,1.0,-1.2,-1.2,1.0,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+F CHN KOWLOON,4.2,1.6,1.2,-1.4,1.6,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+G KOR VIRUS,1.8,1.0,-1.0,1.4,0.6,-0.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+H FRA DOM-K,-4.8,1.8,1.8,-2.4,-2.4,-3.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+I UKR INTACT,-15.8,-3.4,-4.4,-2.4,-4.2,-1.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/sfnl000200--,671-Nicka,Round3,semifinals,671,Nicka
+A JPN KAZUHIRO,3.8,-0.6,1.8,-1.0,1.2,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+B GER FROST,16.2,3.4,2.8,2.0,4.8,3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+C USA MOY,-3.8,-0.8,-1.2,0.8,-1.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+D BRA MIGAZ,-9.4,-1.6,-2.6,-1.6,-2.4,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+E ESP JESS,5.0,1.4,0.8,0.4,0.8,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+F CHN KOWLOON,3.4,-1.4,1.0,1.6,1.2,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+G KOR VIRUS,0.6,-2.8,2.6,2.0,-1.8,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+H FRA DOM-K,-3.4,-3.6,3.0,-3.0,2.8,-2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+I UKR INTACT,5.6,2.8,1.6,-1.2,0.8,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round1,finals,Ami,Nicka
+A JPN KAZUHIRO,5.2,1.8,-1.2,,2.8,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+B GER FROST,14.0,2.4,2.4,2.4,3.0,3.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+C USA MOY,-3.2,-0.4,-0.6,-0.8,-0.6,-0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+D BRA MIGAZ,-3.2,-1.0,-2.2,,-1.6,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+E ESP JESS,5.2,1.0,0.4,0.8,2.0,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+F CHN KOWLOON,-2.2,-1.6,-1.4,-1.2,1.0,1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+G KOR VIRUS,-3.8,-1.2,-0.4,-1.2,-0.6,-0.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+H FRA DOM-K,4.0,-4.2,4.0,3.6,3.4,-2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+I UKR INTACT,10.2,3.0,1.0,1.6,2.4,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round2,finals,Ami,Nicka
+A JPN KAZUHIRO,1.2,1.6,-1.8,-1.8,2.0,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+B GER FROST,2.8,-2.2,-1.6,2.0,2.4,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+C USA MOY,-5.2,-1.2,-1.0,-1.0,-1.0,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+D BRA MIGAZ,-11.4,-3.6,-2.2,-2.0,-1.6,-2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+E ESP JESS,-3.0,-1.2,-0.4,-1.8,-0.8,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+F CHN KOWLOON,0.8,1.8,1.2,-1.6,-1.2,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+G KOR VIRUS,2.6,-0.6,0.8,0.4,1.2,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+H FRA DOM-K,-6.2,-3.6,2.6,1.8,-3.8,-3.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+I UKR INTACT,1.0,1.2,-1.4,-1.2,1.2,1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000100--,Ami-Nicka,Round3,finals,Ami,Nicka
+A JPN KAZUHIRO,-4.6,-1.8,-1.4,1.0,-1.4,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+B GER FROST,6.2,-2.2,3.0,1.4,1.8,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+C USA MOY,-0.8,1.0,-1.2,-1.0,-1.4,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+D BRA MIGAZ,7.0,2.0,2.2,2.4,-1.6,2.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+E ESP JESS,-0.4,-1.2,0.6,0.6,-1.0,0.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+F CHN KOWLOON,-9.6,-1.8,-1.6,-2.2,-1.8,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+G KOR VIRUS,-5.2,-2.4,-1.8,-1.6,-1.6,2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+H FRA DOM-K,-4.0,-3.0,2.0,-2.2,-3.4,2.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+I UKR INTACT,5.0,1.0,1.4,3.2,-1.4,0.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round1,finals,India,671
+A JPN KAZUHIRO,-7.6,-0.6,-2.0,-1.2,-2.2,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+B GER FROST,-5.6,-2.8,-2.0,-2.0,-1.8,3.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+C USA MOY,-4.0,-2.2,-1.0,,-2.4,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+D BRA MIGAZ,-12.0,-3.4,-3.0,-2.0,-1.8,-1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+E ESP JESS,-2.2,-0.8,-0.6,,-0.8,,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+F CHN KOWLOON,-6.4,-1.4,-1.6,-1.0,-1.2,-1.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+G KOR VIRUS,-6.4,-2.0,-1.0,-1.2,-2.2,,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+H FRA DOM-K,-1.4,-2.4,-3.0,4.2,-2.6,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+I UKR INTACT,-9.4,-1.4,-2.8,-0.6,-3.0,-1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round2,finals,India,671
+A JPN KAZUHIRO,-6.2,-0.6,-1.6,-1.0,-2.0,-1.0,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
+B GER FROST,11.4,2.0,1.4,2.8,2.8,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
+C USA MOY,6.8,1.0,1.0,1.0,2.0,1.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
+D BRA MIGAZ,-7.6,-3.0,-1.2,-0.8,-2.6,,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
+E ESP JESS,2.0,0.6,0.4,0.4,0.6,,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
+F CHN KOWLOON,2.4,1.0,-1.0,-0.8,1.6,1.6,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
+G KOR VIRUS,-11.6,-3.0,-1.4,-3.0,-2.0,-2.2,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
+H FRA DOM-K,-1.4,-2.8,-3.0,-2.0,3.6,2.8,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
+I UKR INTACT,8.2,1.0,0.8,3.2,0.8,2.4,https://olympics.com/en/paris-2024/results/breaking/b-girls/fnl-000200--,India-671,Round3,finals,India,671
